@@ -1,0 +1,35 @@
+name: Run Scraper and Notifications
+
+on:
+  schedule:
+    - cron: '01 22 * * *'  # Runs at 00:30 SAST every day (22:30 UTC)
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  run-scraper-and-notifications:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'  # Use the version your script requires
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Step 4: Run scrape.py to scrape data and save to products.json
+      - name: Run scrape.py
+        run: python scrape.py
+
+      # Step 5: Run noti.py to send notifications
+      - name: Run noti.py
+        run: python noti.py
