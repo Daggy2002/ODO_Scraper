@@ -38,4 +38,6 @@ jobs:
 
       # Step 6: Run noti.py to send notifications
       - name: Run noti.py
+        env:
+          PUSHBULLET_API_KEY: ${{ secrets.PUSHBULLET_API_KEY }}  # Pass the secret as an environment variable
         run: python noti.py
