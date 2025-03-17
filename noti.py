@@ -8,6 +8,7 @@ load_dotenv()
 
 # Replace this with your Pushbullet API Key
 API_KEY = os.getenv("PUSHBULLET_API_KEY")
+print(API_KEY)
 
 # Initialize Pushbullet
 pb = Pushbullet(API_KEY)
