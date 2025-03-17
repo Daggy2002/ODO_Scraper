@@ -22,7 +22,7 @@ for product in products:
     
     discount_percentage = (product['original_price'] - product['discounted_price']) / product['original_price'] * 100
     
-    if discount_percentage >= 70:
+    if discount_percentage >= 50:
         print(f"{product['product_name']} is now {discount_percentage:.2f}% off! Check it out: {product['product_link']}")
         # Send a notification if the discount is greater than or equal to 70%
         message = f"{product['product_name']} is now {discount_percentage:.2f}% off! Check it out: {product['product_link']}"

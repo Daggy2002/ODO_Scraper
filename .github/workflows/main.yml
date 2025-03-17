@@ -2,7 +2,7 @@ name: Run Scraper and Notifications
 
 on:
   schedule:
-    - cron: '01 22 * * *'  # Runs at 00:30 SAST every day (22:30 UTC)
+    - cron: '30 17 * * *'  # Runs at 00:30 SAST every day (22:30 UTC)
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
