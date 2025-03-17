@@ -1,0 +1,1026 @@
+Product 1:
+  - Supreme Leather
+  - Men's Genuine Leather Elliot Jacket
+  - From
+  - R2,499
+  - R4,950
+
+Product 2:
+  - Red Rhino
+  - 4.2kW RIde On Lawnmower
+  - R27,999
+  - R47,000
+
+Product 3:
+  - Studio House
+  - 3-Layer Expandable Cooler
+  - R379
+  - R800
+
+Product 4:
+  - HECTIC!
+  - Xiaomi
+  - Pro 2 Smart Standing Fan
+  - R1,799
+  - R2,900
+
+Product 5:
+  - Crocs™
+  - Unisex Classic Mega Crush Bone Sandals
+  - R499
+  - R1,400
+
+Product 6:
+  - Crocs™
+  - Unisex Echo Sand Storm Heel Clog
+  - R1,199
+  - R2,200
+
+Product 7:
+  - Crocs™
+  - Unisex Classic Mega Crush Clogs
+  - R699
+  - R1,500
+
+Product 8:
+  - Crocs™
+  - Kids Lined Clogs
+  - R299
+  - R550
+
+Product 9:
+  - Crocs™
+  - Unisex Croc Slides
+  - R379
+  - R600
+
+Product 10:
+  - Trade Professionals
+  - 2000W Mitre Sliding Saw
+  - R2,499
+  - R4,800
+
+Product 11:
+  - Birdie
+  - Jet Black Glow Scooter
+  - R1,399
+  - R2,000
+
+Product 12:
+  - Bubblegum Tablets
+  - 7" Educational Tablet & Cover
+  - R1,849
+  - R2,300
+
+Product 13:
+  - Cape Umbrellas
+  - Easylift Outdoor Umbrella & Cover
+  - From
+  - R4,499
+  - R5,700
+
+Product 14:
+  - Hluhluwe Bush Camp
+  - 2-Night Self-Catering Per Couple
+  - R1,399
+  - R1,900
+
+Product 15:
+  - Mellerware
+  - 16L Air Fryer (Model: 27160)
+  - R1,399
+  - R1,700
+
+Product 16:
+  - Mellerware
+  - 800W Stick Blender Set
+  - R699
+  - R1,000
+
+Product 17:
+  - Mellerware
+  - 900W 2-Slice Toaster
+  - R299
+  - R650
+
+Product 18:
+  - Mellerware
+  - 360° 1300W Cordless Kettle
+  - R249
+  - R420
+
+Product 19:
+  - Mellerware
+  - 2-Slice Non-Stick Sandwich Maker
+  - R349
+  - R500
+
+Product 20:
+  - YOH YOH YOH!
+  - Mellerware
+  - Sigma 4 Slice Toaster
+  - R599
+  - R1,000
+
+Product 21:
+  - HAIBO!
+  - Mellerware
+  - 3-Speed Airwave Tower Fan
+  - R549
+  - R700
+
+Product 22:
+  - HECTIC!
+  - Mellerware
+  - 110W White Ice Maker
+  - R1,999
+  - R3,000
+
+Product 23:
+  - YOH YOH YOH!
+  - Mellerware
+  - 4.6L 1450W Vitality XL Air Fryer
+  - R999
+  - R1,500
+
+Product 24:
+  - Golfzone
+  - Golf Practising Hitting Net
+  - R1,799
+  - R2,400
+
+Product 25:
+  - GripMaster
+  - 2x No-Tie Shoelaces with Clips
+  - R99
+  - R200
+
+Product 26:
+  - Fotakis Rugs & Floors
+  - Revival Rug Collection
+  - From
+  - R999
+  - R1,600
+
+Product 27:
+  - Supreme Leather
+  - Ladies Leather Victoria Coat
+  - R2,499
+  - R4,800
+
+Product 28:
+  - Supreme Leather
+  - Ladies Leather Nube Jacket
+  - R2,499
+  - R4,950
+
+Product 29:
+  - Supreme Leather
+  - Men's The New Classic Leather Jacket
+  - R2,599
+  - R4,950
+
+Product 30:
+  - Bosch
+  - 450W Vita Power Blender
+  - R749
+  - R1,300
+
+Product 31:
+  - Casio
+  - Unisex Retro Analog Watch
+  - R799
+  - R1,500
+
+Product 32:
+  - Casio
+  - Unisex Retro Steel Watch
+  - From
+  - R699
+  - R1,300
+
+Product 33:
+  - Casio
+  - Men's G-Shock 200M Watch
+  - R2,299
+  - R4,600
+
+Product 34:
+  - Casio
+  - Men's G-Shock Full Metal 5000 Series
+  - R12,499
+  - R25,000
+
+Product 35:
+  - Casio
+  - Men's Green Dial Watch
+  - R1,599
+  - R3,200
+
+Product 36:
+  - Casio
+  - Ladies Baby-G Watch
+  - R1,499
+  - R2,400
+
+Product 37:
+  - Casio
+  - Men's Edifice Chrono Watch
+  - From
+  - R1,999
+  - R3,900
+
+Product 38:
+  - Casio
+  - Men's Edifice Three-Hand Watch
+  - R1,799
+  - R3,000
+
+Product 39:
+  - Casio
+  - Men's Retro Digital Watch
+  - From
+  - R1,499
+  - R3,000
+
+Product 40:
+  - Casio
+  - Men's G-Shock Cassette Watch
+  - R1,299
+  - R2,400
+
+Product 41:
+  - Casio
+  - Men's G-Steel Watch
+  - R4,999
+  - R9,500
+
+Product 42:
+  - Bosch
+  - 180W Coffee Grinders
+  - R299
+  - R600
+
+Product 43:
+  - Bosch
+  - 700W Premium Kitchen Machine
+  - R1,899
+  - R2,700
+
+Product 44:
+  - Bosch
+  - 263L Bottom Freezer Fridge
+  - R7,499
+  - R9,000
+
+Product 45:
+  - Buffelsfontein
+  - 750ml Brandy Gift Pack
+  - R279
+
+Product 46:
+  - Military
+  - MGF 0.0 BT5.3 Earbuds
+  - R699
+  - R1,100
+
+Product 47:
+  - OnFit
+  - Resistance Cycling Desk
+  - R3,899
+  - R12,000
+
+Product 48:
+  - Beamarry
+  - 380ml Shampoo & Conditioner Set
+  - R239
+  - R310
+
+Product 49:
+  - Mooiplaas
+  - 6x Chenin Blanc 2024
+  - R399
+  - R480
+
+Product 50:
+  - Craft Kit
+  - 63-Piece Macrame Starter Kit
+  - R229
+  - R350
+
+Product 51:
+  - Craft Kit
+  - 12-Piece Mini Chalkboard Signs Set
+  - R179
+  - R300
+
+Product 52:
+  - Brutfuner
+  - 72-Piece Water Colour Pencils
+  - R399
+  - R600
+
+Product 53:
+  - Chenshia Home
+  - 7-Piece Multifunctional Ruler Set
+  - R229
+  - R350
+
+Product 54:
+  - PaintPro
+  - 2x Paint Brush Cleaners
+  - R199
+  - R360
+
+Product 55:
+  - Aon-Art
+  - Watercolour Paint Set
+  - R279
+  - R580
+
+Product 56:
+  - House of BNG
+  - 4x 250ml Nectar Blanc Cans
+  - R249
+
+Product 57:
+  - Original Iced Cocktails
+  - 12x 300ml Cocktail Pouches
+  - R289
+  - R400
+
+Product 58:
+  - Alvi's Drift
+  - 6x Brut Rosé NV
+  - R649
+  - R840
+
+Product 59:
+  - Easy Craft
+  - 2x DIY Paint By Numbers Kits
+  - R479
+  - R680
+
+Product 60:
+  - Velo16™
+  - 2x 60's Probiotic Capsules
+  - R399
+  - R620
+
+Product 61:
+  - Born Free
+  - 3-in-1 Inkulu Pizza Oven
+  - R10,499
+  - R12,500
+
+Product 62:
+  - BabyWombWorld
+  - SleekFold Minimalistic High Chair
+  - R1,799
+  - R2,300
+
+Product 63:
+  - BabyWombWorld
+  - Baby Monitor
+  - R1,199
+  - R1,500
+
+Product 64:
+  - BabyWombWorld
+  - Baby Bottle Sterilizer & Warmer
+  - R899
+  - R1,300
+
+Product 65:
+  - BabyWombWorld
+  - 5-Function Baby Food Preparation Machine
+  - R1,399
+  - R2,000
+
+Product 66:
+  - CarTekk
+  - Car Magnetic Phone Holder
+  - R129
+  - R200
+
+Product 67:
+  - Block It
+  - 2x Car Shade Umbrellas
+  - R229
+  - R400
+
+Product 68:
+  - Auto HD
+  - Universal Waterproof Car Cover
+  - From
+  - R329
+  - R700
+
+Product 69:
+  - Luxe Car
+  - 2x Hanging Car Storage Organisers
+  - R499
+  - R900
+
+Product 70:
+  - Clip Wise
+  - Sunglasses Clip for Car Visor
+  - R179
+  - R300
+
+Product 71:
+  - ScratchMend
+  - 15g Car Scratch Remover
+  - R99
+  - R200
+
+Product 72:
+  - Catch Caddy
+  - 4x Car Pocket Organisers
+  - R349
+  - R500
+
+Product 73:
+  - GearMax
+  - Universal Car Seat Cover
+  - R379
+  - R550
+
+Product 74:
+  - EasyTravel
+  - 5-in-1 Universal Car Cup Holder
+  - R179
+  - R300
+
+Product 75:
+  - Aorlis
+  - Cordless Handheld Vacuum
+  - R349
+  - R500
+
+Product 76:
+  - GearMax
+  - LED Portable Car Ashtray
+  - R129
+  - R220
+
+Product 77:
+  - Red Rhino
+  - 85L Reusable Garden Bag
+  - R229
+  - R300
+
+Product 78:
+  - Red Rhino
+  - 26cc Petrol Leaf Blower
+  - R1,799
+  - R2,500
+
+Product 79:
+  - Red Rhino
+  - 20m Retractable Hose Reel
+  - R1,399
+  - R1,700
+
+Product 80:
+  - Cadac
+  - Patio Heater
+  - R2,999
+  - R4,000
+
+Product 81:
+  - Cadac
+  - Outdoor Area Heater
+  - From
+  - R2,999
+  - R4,000
+
+Product 82:
+  - Cadac
+  - Gas Hob with Side Knobs
+  - From
+  - R1,249
+  - R1,800
+
+Product 83:
+  - FATFRANK
+  - Men's Genuine Leather Boots
+  - R899
+  - R1,400
+
+Product 84:
+  - Halo
+  - Contemporary Upholstered Chair
+  - From
+  - R1,099
+  - R1,700
+
+Product 85:
+  - Maximus
+  - Natural Wood Stool
+  - R1,899
+  - R2,500
+
+Product 86:
+  - Bordeaux Lennon
+  - 6 Seater Velvet Dining Set
+  - R46,999
+  - R54,000
+
+Product 87:
+  - Jagger
+  - Modular Corner Couch with Ottoman
+  - R41,999
+  - R47,000
+
+Product 88:
+  - Bordeaux Olivia
+  - 10-Seater 2.4m Dining Set
+  - R43,999
+  - R48,000
+
+Product 89:
+  - Bordeaux Christian
+  - 8-Seater 2.4m Dining Set
+  - R51,999
+  - R55,000
+
+Product 90:
+  - Volantis
+  - 3-Seater Upholstered Couch
+  - R23,999
+  - R27,000
+
+Product 91:
+  - Voyager
+  - Pine Wood Sideboard
+  - R14,999
+  - R18,300
+
+Product 92:
+  - Emma
+  - Wingback Dining Chair
+  - R4,699
+  - R5,300
+
+Product 93:
+  - Volantis
+  - Pine Console Table
+  - R7,499
+  - R10,800
+
+Product 94:
+  - Achilles
+  - 3D Decorative Wall Art
+  - From
+  - R1,399
+  - R1,800
+
+Product 95:
+  - FATFRANK
+  - Ladies Genuine Leather Vellies
+  - R699
+  - R990
+
+Product 96:
+  - FATFRANK
+  - Men's Genuine Leather Vellies
+  - R899
+  - R1,400
+
+Product 97:
+  - Fotakis Rugs & Floors
+  - Rome Collection Rug
+  - From
+  - R1,299
+  - R3,500
+
+Product 98:
+  - Fotakis Rugs & Floors
+  - Vintage Rug Collection
+  - From
+  - R999
+  - R1,600
+
+Product 99:
+  - O2 Store
+  - Metal Bread Bin
+  - R279
+  - R400
+
+Product 100:
+  - O2 Store
+  - 2-Piece Airtight Container
+  - R299
+  - R400
+
+Product 101:
+  - EHK
+  - Stainless Steel Steamer Basket
+  - From
+  - R149
+  - R250
+
+Product 102:
+  - MainStrain
+  - 2x Clip-On Pot Strainers
+  - R179
+  - R400
+
+Product 103:
+  - SaniSticks
+  - 6x 12's Drain Cleaning Sticks
+  - R149
+  - R300
+
+Product 104:
+  - KitchenKraft
+  - 2x Manual Garlic Crushers
+  - R129
+  - R200
+
+Product 105:
+  - Trendz of Today
+  - 3-Piece Pop-Seal Containers
+  - From
+  - R599
+  - R900
+
+Product 106:
+  - Flora Cup
+  - 4x 350ml Dried Flowers Cup
+  - R349
+  - R500
+
+Product 107:
+  - KitchenFX
+  - Dishwashing Scrubbing Gloves
+  - R99
+  - R210
+
+Product 108:
+  - Chenshia Home
+  - 350ml Stainless Steel Frothing Jug
+  - R199
+  - R300
+
+Product 109:
+  - WhiskUp
+  - Rotating Silicone Whisk
+  - R129
+  - R200
+
+Product 110:
+  - EasyChop
+  - 4-Piece Cutting Boards
+  - R129
+  - R220
+
+Product 111:
+  - Measured
+  - 2x Digital Measuring Spoons
+  - R179
+  - R450
+
+Product 112:
+  - Tuscany Leather
+  - Leather Money Clip Wallet
+  - R249
+  - R420
+
+Product 113:
+  - Tuscany Leather
+  - Leather Travel and Mobile Wallet
+  - R349
+  - R750
+
+Product 114:
+  - Tuscany Leather
+  - Leather 20-Card Multifold Wallet
+  - R299
+  - R530
+
+Product 115:
+  - Tuscany Leather
+  - Leather Crossbody Messenger Bag
+  - R1,399
+  - R2,300
+
+Product 116:
+  - TravelSip
+  - 800ml Travel Cup with Handle
+  - R279
+  - R450
+
+Product 117:
+  - Flourish
+  - 2x Expandable Decorative Ivy Trellis
+  - R299
+  - R700
+
+Product 118:
+  - SootheStep
+  - Leg Elevation Pillow
+  - R379
+  - R700
+
+Product 119:
+  - MediPatch
+  - Acne and Wound Patch Bundle
+  - R179
+  - R360
+
+Product 120:
+  - John Hatter & Co
+  - Unisex Luxury Cap
+  - R379
+  - R1,500
+
+Product 121:
+  - Pupil Practice
+  - 2x 13-Piece Practice Copybook Sets
+  - R179
+  - R340
+
+Product 122:
+  - Rack Ready
+  - Steel Clothing Rack
+  - R199
+  - R350
+
+Product 123:
+  - Winstonne
+  - Unisex Theordore Sunglasses
+  - R179
+  - R850
+
+Product 124:
+  - Winstonne
+  - Unisex Roman Sunglasses
+  - R179
+  - R850
+
+Product 125:
+  - Winstonne
+  - Unisex Lamar Sunglasses
+  - R229
+  - R850
+
+Product 126:
+  - Golfzone
+  - Golf Ball Retriever
+  - R449
+  - R640
+
+Product 127:
+  - Golfzone
+  - Golf Practice Chipping Mat Set
+  - R749
+  - R1,400
+
+Product 128:
+  - AGGENEE!
+  - Maxwell & Williams
+  - 3x 110ML Sherbet Mugs
+  - R149
+  - R240
+
+Product 129:
+  - Maxwell & Williams
+  - 4x 27.5cm Coupe Dinner Plates
+  - R399
+  - R680
+
+Product 130:
+  - Maxwell & Williams
+  - Kids Apron and Hat Setner
+  - R199
+  - R400
+
+Product 131:
+  - Maxwell & Williams
+  - 150 x 33cm Cotton Runner
+  - R159
+  - R300
+
+Product 132:
+  - Classic World
+  - Multi-Functional Easel
+  - R999
+  - R1,300
+
+Product 133:
+  - Classic World
+  - Train Set
+  - R799
+  - R1,400
+
+Product 134:
+  - Classic World
+  - Children's Table and Chair Set
+  - R1,499
+  - R2,000
+
+Product 135:
+  - Handles Inc
+  - 4x Hat and Coat Hooks
+  - R299
+  - R600
+
+Product 136:
+  - Handles Inc
+  - 2x Self Adhesive Holders
+  - R349
+  - R600
+
+Product 137:
+  - Handles Inc
+  - 4x Pull Handles
+  - From
+  - R199
+  - R320
+
+Product 138:
+  - Handles Inc
+  - Pewter Pull Handle On Plate
+  - R379
+  - R500
+
+Product 139:
+  - Luxe Bathroom
+  - 75 x 45cm Non-Slip Chenille Bath Mat
+  - R249
+  - R400
+
+Product 140:
+  - One-Juice
+  - 16/8 Intermittent Fasting Cleanse
+  - R1,099
+  - R1,750
+
+Product 141:
+  - hifiTech
+  - 2x Motion Sensor Solar Lights
+  - R479
+  - R600
+
+Product 142:
+  - Wilhelmina Sheldon
+  - 45ml Inspired Fragrances
+  - R229
+  - R380
+
+Product 143:
+  - Oceania
+  - Kids Mermaid Swimsuits
+  - From
+  - R279
+  - R900
+
+Product 144:
+  - Muck
+  - Men's Muckster II Low Shoes
+  - R1,079
+  - R1,600
+
+Product 145:
+  - Soul Pro
+  - 2x Motion Sensor Head Lamps
+  - R249
+  - R500
+
+Product 146:
+  - Wagon Way
+  - Collapsible Utility Trolley
+  - R1,299
+  - R2,000
+
+Product 147:
+  - Highlight Haven
+  - 4x Pastel Highlighters
+  - R99
+  - R150
+
+Product 148:
+  - Lumo
+  - Astronaut Galaxy Projector
+  - R399
+  - R800
+
+Product 149:
+  - Lumo
+  - RGB Mouse Pad
+  - R179
+  - R350
+
+Product 150:
+  - Desk Craft
+  - DIY Desktop Organiser
+  - From
+  - R299
+  - R450
+
+Product 151:
+  - Classic Football Heroes
+  - Ultimate Book Pack
+  - R569
+  - R1,600
+
+Product 152:
+  - TurnTick
+  - Rotating Gear Clock
+  - R349
+  - R550
+
+Product 153:
+  - Page Publications
+  - The Philosopher's Collection
+  - R399
+  - R700
+
+Product 154:
+  - FiTech
+  - Foldable Bluetooth Headphones
+  - R299
+  - R500
+
+Product 155:
+  - Zartek
+  - Sterilizing LED Wand
+  - R249
+  - R830
+
+Product 156:
+  - Relieve
+  - 2x Hot/Cold Neck Wraps
+  - R419
+  - R600
+
+Product 157:
+  - Houset
+  - 2x Underbed Storage Bags
+  - R279
+  - R400
+
+Product 158:
+  - FiTech
+  - Wireless Lavalier Microphone Set
+  - R199
+  - R400
+
+Product 159:
+  - Crease Protect
+  - 2x 250ml Renovation Spray
+  - R399
+  - R500
+
+Product 160:
+  - Crease Protect
+  - 2x Odour Buster Balls
+  - R279
+  - R360
+
+Product 161:
+  - Crease Protect
+  - 2x 275ml Shine & Protect Polish
+  - R279
+  - R360
+
+Product 162:
+  - Crease Protect
+  - 2x 75ml Clean & Go Shoe Cleaning Kit
+  - R379
+  - R500
+
+Product 163:
+  - iTotal
+  - Lava Lamp
+  - From
+  - R699
+  - R1,200
+
+Product 164:
+  - iTotal
+  - 470ml Ceramic Novelty Mug
+  - R379
+  - R650
+
+Product 165:
+  - iTotal
+  - Ultra Soft Animal Pillow
+  - From
+  - R399
+  - R700
+
+Product 166:
+  - Aon-Art
+  - 3000-Piece Ultimate Arts & Crafts Set
+  - R649
+  - R1,200
+
+Product 167:
+  - Aon-Art
+  - 4300+ Piece Heishi Beads Set
+  - R299
+  - R480
+
