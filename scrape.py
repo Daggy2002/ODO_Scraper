@@ -1,7 +1,6 @@
 from playwright.sync_api import sync_playwright
 import json
 import time
-import re
 
 BASE_URL = "https://www.onedayonly.co.za"
 
@@ -40,29 +39,27 @@ def scrape_products():
 
                 if price_div:
                     h2_prices = price_div.query_selector_all('h2')
-                    def convert_price(price_str):
-                        """Convert price string 'R#,##' to integer."""
-                        return int(price_str.replace('R', '').replace(',', '').strip())
+                    # Check if any of the text is "FROM" and remove it
+                    h2_prices = [h2_price for h2_price in h2_prices if "from" not in h2_price.inner_text().lower()]
 
-                    if len(h2_prices) == 3:
-                        # Format: "from disc_price old_price"
-                        discounted_price = convert_price(h2_prices[1].inner_text().strip())
-                        original_price = convert_price(h2_prices[2].inner_text().strip())
-                    elif len(h2_prices) == 2:
-                        # Format: "disc_price old_price" or "from disc_price"
-                        price_text = h2_prices[0].inner_text().strip().lower()
-                        if price_text.startswith("from"):
-                            discounted_price = convert_price(h2_prices[1].inner_text().strip())
-                            original_price = discounted_price
-                        else:
-                            discounted_price = convert_price(h2_prices[0].inner_text().strip())
-                            original_price = convert_price(h2_prices[1].inner_text().strip())
+                    # If theres two prices, the first is the discounted price and the second is the original price
+                    if len(h2_prices) == 2:
+                        discounted_price = int(h2_prices[0].inner_text().replace('R', '').replace(',', '').strip())
+                        original_price = int(h2_prices[1].inner_text().replace('R', '').replace(',', '').strip())
+
                     elif len(h2_prices) == 1:
-                        # Format: "from disc_price"
-                        price_text = h2_prices[0].inner_text().strip().lower()
-                        if price_text.startswith("from"):
-                            discounted_price = convert_price(price_text.replace("from", "").strip())
-                            original_price = None
+                        discounted_price = int(h2_prices[0].inner_text().replace('R', '').replace(',', '').strip())
+                        original_price = discounted_price
+                    else:
+                        # There's no price information
+                        discounted_price = original_price = None
+
+                    # if len(h2_prices) == 3:
+                    #     discounted_price = convert_price(h2_prices[1].inner_text().strip())
+                    #     original_price = convert_price(h2_prices[2].inner_text().strip())
+                    # elif len(h2_prices) == 2:
+                    #     discounted_price = convert_price(h2_prices[0].inner_text().strip())
+                    #     original_price = convert_price(h2_prices[1].inner_text().strip())
 
                 # Extract product link
                 link_tag = product_div.query_selector('a')
@@ -96,11 +93,4 @@ def scrape_products():
         with open('products.json', 'w', encoding='utf-8') as file:
             json.dump(products, file, indent=4, ensure_ascii=False)
 
-start_time = time.time()
-
 scrape_products()
-
-end_time = time.time()
-elapsed_time = end_time - start_time
-mins, secs = divmod(elapsed_time, 60)
-print(f"Scraping completed in {int(mins)} minutes and {int(secs)} seconds.")
