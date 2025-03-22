@@ -1,1437 +1,1164 @@
 [
     {
-        "brand": "Netwerk24",
-        "product_name": "12-Month Digital Only Subscription",
+        "brand": "Duck Feather",
+        "product_name": "100% Feather Duvet",
+        "discounted_price": 549,
+        "original_price": 1200,
+        "product_link": "https://www.onedayonly.co.za/products/100-feather-duvet-20250318"
+    },
+    {
+        "brand": "Outdoor Essentials",
+        "product_name": "Galvanised Steel Tool Storage Shed",
+        "discounted_price": 4399,
+        "original_price": 9500,
+        "product_link": "https://www.onedayonly.co.za/products/galvanised-steel-garden-and-tool-storage-shed-20250319"
+    },
+    {
+        "brand": "ModuTurn",
+        "product_name": "360° Swivel Coffee Table",
+        "discounted_price": 6999,
+        "original_price": 12000,
+        "product_link": "https://www.onedayonly.co.za/products/modern-sculpted-360-swivel-coffee-table-20250319"
+    },
+    {
+        "brand": "Ride On",
+        "product_name": "iGlide Hoverboard",
+        "discounted_price": 2599,
+        "original_price": 4600,
+        "product_link": "https://www.onedayonly.co.za/products/iglide-hoverboard-and-branded-carry-bag-20250319"
+    },
+    {
+        "brand": "Waterford Cooladine 1.1",
+        "product_name": "750ml Irish Single Malt Whisky",
+        "discounted_price": 949,
+        "original_price": 1590,
+        "product_link": "https://www.onedayonly.co.za/products/750ml-irish-single-malt-whisky-20250318"
+    },
+    {
+        "brand": "Bolatu",
+        "product_name": "3-Piece TSA Lock Luggage Set",
+        "discounted_price": 2799,
+        "original_price": 5000,
+        "product_link": "https://www.onedayonly.co.za/products/3-piece-tsa-lock-luggage-set-20250319"
+    },
+    {
+        "brand": "BLK",
+        "product_name": "Men's Pro Rugby Match Shorts",
+        "discounted_price": 449,
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-t2-pro-rugby-match-shorts-20250319"
+    },
+    {
+        "brand": "BLK",
+        "product_name": "Men's Lifestyle Training Pants",
+        "discounted_price": 499,
+        "original_price": 850,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-lifestyle-training-pants-20250319"
+    },
+    {
+        "brand": "BLK",
+        "product_name": "Zimbabwe Home Replica Jersey",
         "discounted_price": 399,
-        "original_price": 1100,
-        "product_link": "https://www.on edayonly.co.za/products/12-month-digital-only-subscription-access-to-breaking-news-games-magazines-and-multimedia-content-20250310"
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/zimbabwe-sables-home-replica-jersey-20250320"
     },
     {
-        "brand": "SodaStream",
-        "product_name": "Sparkling Water Machine & Assorted Syrup",
-        "discounted_price": 999,
-        "original_price": 1900,
-        "product_link": "https://www.onedayonly.co.za/products/terra-sparkling-water-machine-with-1x-440ml-syrup-20250314"
+        "brand": "BLK",
+        "product_name": "Men's Tek VI Hoodie",
+        "discounted_price": 499,
+        "original_price": 750,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-tek-vi-pull-over-hoodie-20250319"
     },
     {
-        "brand": "LEGO",
-        "product_name": "McLaren Formula 1 Race Car",
+        "brand": "BLK",
+        "product_name": "Men's Stratus VII Jacket",
+        "discounted_price": 699,
+        "original_price": 1700,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-stratus-vii-nylon-jacket-20250319"
+    },
+    {
+        "brand": "BLK",
+        "product_name": "Kenya Training Tee",
+        "discounted_price": 499,
+        "original_price": 1000,
+        "product_link": "https://www.onedayonly.co.za/products/kenya-training-tee-20250319"
+    },
+    {
+        "brand": "BLK",
+        "product_name": "Zimbabwe Goshawks Replica Jersey",
+        "discounted_price": 399,
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/zimbabwe-goshawks-replica-jersey-20250319"
+    },
+    {
+        "brand": "BLK",
+        "product_name": "Junior or Ladies Away Jersey",
+        "discounted_price": 399,
+        "original_price": 750,
+        "product_link": "https://www.onedayonly.co.za/products/stormers-junior-or-ladies-away-replica-jersey-20250319"
+    },
+    {
+        "brand": "BLK",
+        "product_name": "Men's Lifestyle Training Shorts",
+        "discounted_price": 499,
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-lifestyle-training-shorts-20250319"
+    },
+    {
+        "brand": "BLK",
+        "product_name": "Namibia World Cup Replica Jersey",
+        "discounted_price": 399,
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/namibia-world-cup-replica-jersey-20250319"
+    },
+    {
+        "brand": "BLK",
+        "product_name": "Zimbabwe Rugby Fan Tee",
+        "discounted_price": 349,
+        "original_price": 600,
+        "product_link": "https://www.onedayonly.co.za/products/zimbabwe-rugby-fan-tees-20250319"
+    },
+    {
+        "brand": "shoX",
+        "product_name": "Bluetooth Speaker and Radio",
         "discounted_price": 299,
         "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/245-piece-speed-champions-2023-mclaren-formula-1-race-car-20250314"
+        "product_link": "https://www.onedayonly.co.za/products/bluetooth-speaker-radio-with-fm-am-sw-functionality-20250318"
     },
     {
-        "brand": "Tineco",
-        "product_name": "Cordless + Handheld Vacuum Bundle",
-        "discounted_price": 5799,
-        "original_price": 11600,
-        "product_link": "https://www.onedayonly.co.za/products/pure-one-station-5-cordless-vacuum-handvac-stick-go-mini-handheld-vacuum-cleaner-20250314"
-    },
-    {
-        "brand": "Samsung",
-        "product_name": "S22 256GB DS Smartphone",
-        "discounted_price": 11499,
-        "original_price": 20000,
-        "product_link": "https://www.onedayonly.co.za/products/galaxy-s22-5g-256gb-dual-sim-smartphone-20250314"
-    },
-    {
-        "brand": "Soft Lustre Towels",
-        "product_name": "3-Piece 500gsm Rib Cotton Towels",
-        "discounted_price": 499,
-        "original_price": 800,
-        "product_link": "https://www.onedayonly.co.za/products/3-piece-500gsm-cotton-textured-rib-cotton-towels-20250314"
-    },
-    {
-        "brand": "Heritage Hide",
-        "product_name": "Leather Zoey Crossbody Bag",
-        "discounted_price": 499,
-        "original_price": 850,
-        "product_link": "https://www.onedayonly.co.za/products/zoey-genuine-leather-crossbody-bag-20250313"
-    },
-    {
-        "brand": "Heritage Hide",
-        "product_name": "Leather Alexis Crossbody Bag",
-        "discounted_price": 549,
-        "original_price": 850,
-        "product_link": "https://www.onedayonly.co.za/products/genuine-leather-alexis-crossbody-bag-20250314"
-    },
-    {
-        "brand": "Heritage Hide",
-        "product_name": "Leather Heidi Long Handbag",
-        "discounted_price": 499,
-        "original_price": 820,
-        "product_link": "https://www.onedayonly.co.za/products/genuine-leather-heidi-long-handbag-20250314"
-    },
-    {
-        "brand": "Heritage Hide",
-        "product_name": "Leather Grace Shoulder Bag",
-        "discounted_price": 649,
-        "original_price": 1200,
-        "product_link": "https://www.onedayonly.co.za/products/genuine-leather-minimal-grace-shoulder-bag-20250314"
-    },
-    {
-        "brand": "Heritage Hide",
-        "product_name": "Leather Multi Zipper Handbag",
-        "discounted_price": 549,
-        "original_price": 800,
-        "product_link": "https://www.onedayonly.co.za/products/genuine-leather-multi-zipper-handbag-20250314"
-    },
-    {
-        "brand": "Heritage Hide",
-        "product_name": "Leather Claudia Classic Handbag",
-        "discounted_price": 599,
-        "original_price": 900,
-        "product_link": "https://www.onedayonly.co.za/products/genuine-leather-claudia-classic-handbag-20250314"
-    },
-    {
-        "brand": "Heritage Hide",
-        "product_name": "Leather Khloe Crossbody Bag",
-        "discounted_price": 499,
-        "original_price": 750,
-        "product_link": "https://www.onedayonly.co.za/products/genuine-leather-khloe-2-in-1-crossbody-bag-20250314"
-    },
-    {
-        "brand": "Heritage Hide",
-        "product_name": "Leather Zipper Long Handbag",
-        "discounted_price": 629,
-        "original_price": 900,
-        "product_link": "https://www.onedayonly.co.za/products/genuine-leather-zipper-long-handbag-20250314"
-    },
-    {
-        "brand": "Heritage Hide",
-        "product_name": "Leather Zip Around Wallet",
-        "discounted_price": 399,
-        "original_price": 650,
-        "product_link": "https://www.onedayonly.co.za/products/genuine-leather-zip-around-wallet-20250314"
-    },
-    {
-        "brand": "Heritage Hide",
-        "product_name": "Leather RFID Card Holder",
-        "discounted_price": 379,
-        "original_price": 600,
-        "product_link": "https://www.onedayonly.co.za/products/genuine-leather-rfid-multiple-card-holder-20250314"
-    },
-    {
-        "brand": "Midea",
-        "product_name": "Top Loader Washing Machine",
-        "discounted_price": 4799,
-        "original_price": 5800,
-        "product_link": "https://www.onedayonly.co.za/products/titanium-top-loader-washing-machine-ma200w-20250314"
-    },
-    {
-        "brand": "LocTag",
-        "product_name": "Ultra-Slim Bluetooth Tracker",
-        "discounted_price": 349,
-        "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/ultra-slim-bluetooth-tracker-20250314"
-    },
-    {
-        "brand": "OmniCam",
-        "product_name": "Dual-Channel Dash Cam",
-        "discounted_price": 1999,
-        "original_price": 3500,
-        "product_link": "https://www.onedayonly.co.za/products/dual-channel-dash-cam-with-lte-gps-model-jc181-20250314"
-    },
-    {
-        "brand": "Sennheiser",
-        "product_name": "Momentum 4 ANC Headphones",
-        "discounted_price": 4699,
-        "original_price": 7850,
-        "product_link": "https://www.onedayonly.co.za/products/momentum-4-adaptive-active-noise-cancellation-over-ear-bluetooth-graphite-headphones-20250313"
-    },
-    {
-        "brand": "Rudy Project",
-        "product_name": "Unisex Bicycle Helmet",
-        "discounted_price": 1199,
-        "original_price": 3130,
-        "product_link": "https://www.onedayonly.co.za/products/strym-unisex-16-vent-bicycle-helmet-s-m-20250314"
-    },
-    {
-        "brand": "Waterford",
-        "product_name": "6x Pecan Stream Sauvignon Blanc 2024",
-        "discounted_price": 579,
-        "original_price": 720,
-        "product_link": "https://www.onedayonly.co.za/products/6x-pecan-stream-sauvignon-blanc-2024-20250313"
-    },
-    {
-        "brand": "Mount Vernon",
-        "product_name": "6x Malbec 2021",
-        "discounted_price": 1599,
-        "original_price": 1800,
-        "product_link": "https://www.onedayonly.co.za/products/6x-malbec-2021-20250314"
-    },
-    {
-        "brand": "Haute Cabrière",
-        "product_name": "6x Chardonnay Pinot Noir 2024",
-        "discounted_price": 659,
-        "original_price": 750,
-        "product_link": "https://www.onedayonly.co.za/products/6x-chardonnay-pinot-noir-2024-20250313"
-    },
-    {
-        "brand": "Boschkloof",
-        "product_name": "6x Chardonnay 2024",
-        "discounted_price": 799,
-        "original_price": 960,
-        "product_link": "https://www.onedayonly.co.za/products/6x-chardonnay-2023-20250309"
-    },
-    {
-        "brand": "Quantum",
-        "product_name": "Mixed Case",
-        "discounted_price": 429,
-        "original_price": 650,
-        "product_link": "https://www.onedayonly.co.za/products/explorer-s-collection-mixed-case-20250313"
-    },
-    {
-        "brand": "Alvi's Drift",
-        "product_name": "6x Reserve Drift Fusion Blend 2020",
-        "discounted_price": 849,
-        "original_price": 1170,
-        "product_link": "https://www.onedayonly.co.za/products/6x-reserve-drift-fusion-blend-2020-20250313"
-    },
-    {
-        "brand": "Land's End",
-        "product_name": "6x Cape South Coast Shiraz 2020",
-        "discounted_price": 549,
-        "original_price": 690,
-        "product_link": "https://www.onedayonly.co.za/products/6x-cape-south-coast-shiraz-2020-20250313"
-    },
-    {
-        "brand": "La Motte",
-        "product_name": "6x Sauvignon Blanc 2024",
-        "discounted_price": 629,
-        "original_price": 770,
-        "product_link": "https://www.onedayonly.co.za/products/6x-sauvignon-blanc-2024-20250313"
-    },
-    {
-        "brand": "Buitenverwachting",
-        "product_name": "6x Buiten Blanc 2024",
-        "discounted_price": 479,
-        "original_price": 540,
-        "product_link": "https://www.onedayonly.co.za/products/6x-buiten-blanc-2024-20250313"
-    },
-    {
-        "brand": "Boschkloof",
-        "product_name": "6x Syrah 2023",
-        "discounted_price": 1399,
-        "original_price": 1740,
-        "product_link": "https://www.onedayonly.co.za/products/6x-syrah-2022-20250309"
-    },
-    {
-        "brand": "Bergsig",
-        "product_name": "6x Lategan MCC Brut 2018",
-        "discounted_price": 949,
-        "original_price": 1350,
-        "product_link": "https://www.onedayonly.co.za/products/6x-lategan-mcc-brut-2018-20250314"
-    },
-    {
-        "brand": "Dreamy Comfort",
-        "product_name": "Maya Panel Velvet Headboard",
-        "discounted_price": 849,
-        "original_price": 2100,
-        "product_link": "https://www.onedayonly.co.za/products/maya-vertical-panel-velvet-headboard-20250314"
-    },
-    {
-        "brand": "Truly",
-        "product_name": "2x Farmstall Wall Mirrors",
-        "discounted_price": 1299,
-        "original_price": 2000,
-        "product_link": "https://www.onedayonly.co.za/products/2x-farmstall-wall-mirrors-20250314"
-    },
-    {
-        "brand": "Snooze Cozy",
-        "product_name": "Smart Active Foam Mattress Bedset",
-        "discounted_price": 2799,
-        "original_price": 4000,
-        "product_link": "https://www.onedayonly.co.za/products/enviroflex-smart-active-foam-non-turn-bedset-20250314"
-    },
-    {
-        "brand": "On",
-        "product_name": "Men's or Ladies Cloudspark Shoes",
-        "discounted_price": 2299,
-        "original_price": 3300,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-or-ladies-cloudspark-ice-grove-running-shoes-20250314"
-    },
-    {
-        "brand": "On",
-        "product_name": "Men's or Ladies Cloud X 3.0 Shoes",
-        "discounted_price": 1999,
-        "original_price": 3100,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-or-ladies-cloud-x-3-0-shoes-20250314"
-    },
-    {
-        "brand": "Samsung",
-        "product_name": "512GB S23 5G DS Smartphone CPO",
-        "discounted_price": 9499,
+        "brand": "Cape Umbrellas",
+        "product_name": "XL Outdoor Cantilever & Cover",
+        "discounted_price": 10799,
         "original_price": 14000,
-        "product_link": "https://www.onedayonly.co.za/products/512gb-galaxy-s23-5g-dual-sim-smartphone-cpo-20250314"
+        "product_link": "https://www.onedayonly.co.za/products/outdoor-brittania-hexagonal-square-cantilever-with-easylift-lifting-system-concrete-base-and-pvc-protective-cover-20250319"
     },
     {
-        "brand": "Samsung",
-        "product_name": "256GB S23 Plus Smartphone CPO",
-        "discounted_price": 9699,
-        "original_price": 13600,
-        "product_link": "https://www.onedayonly.co.za/products/256gb-galaxy-s23-plus-5g-dual-sim-smartphone-cpo-20250314"
+        "brand": "Iconic Black",
+        "product_name": "Unisex Soccer Kit Top",
+        "discounted_price": 449,
+        "original_price": 900,
+        "product_link": "https://www.onedayonly.co.za/products/unisex-afro-futuristic-soccer-kit-top-20250319"
     },
     {
-        "brand": "GoCare",
-        "product_name": "500ml Hair Masque with Keratin",
+        "brand": "TecWare",
+        "product_name": "Wireless Lavalier Microphone",
         "discounted_price": 199,
-        "original_price": 350,
-        "product_link": "https://www.onedayonly.co.za/products/500ml-hair-masque-with-keratin-20250312"
-    },
-    {
-        "brand": "GoCare",
-        "product_name": "100ml PPT Leave-in Treatment",
-        "discounted_price": 149,
-        "original_price": 250,
-        "product_link": "https://www.onedayonly.co.za/products/100ml-ppt-leave-in-treatment-20250312"
-    },
-    {
-        "brand": "GoCare",
-        "product_name": "250ml Vitamin Repair Spray",
-        "discounted_price": 129,
-        "original_price": 290,
-        "product_link": "https://www.onedayonly.co.za/products/250ml-vitamin-repair-spray-20250312"
-    },
-    {
-        "brand": "GoCare",
-        "product_name": "80ml Shiny Hair Serum",
-        "discounted_price": 179,
-        "original_price": 270,
-        "product_link": "https://www.onedayonly.co.za/products/80ml-shiny-hair-serum-20250312"
-    },
-    {
-        "brand": "GoCare",
-        "product_name": "120ml Matte Molding Clay",
-        "discounted_price": 89,
-        "original_price": 200,
-        "product_link": "https://www.onedayonly.co.za/products/120ml-matte-look-power-molding-clay-20250312"
-    },
-    {
-        "brand": "GoCare",
-        "product_name": "Sulphate Free Shampoo",
-        "discounted_price": 149,
-        "original_price": 260,
-        "product_link": "https://www.onedayonly.co.za/products/400ml-or-1000ml-sulphate-free-shampoo-20250312"
-    },
-    {
-        "brand": "GoCare",
-        "product_name": "Refreshing & Ultra Rich Shampoo",
-        "discounted_price": 149,
         "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/400ml-or-1000ml-refreshing-ultra-rich-shampoo-20250312"
+        "product_link": "https://www.onedayonly.co.za/products/wireless-lavalier-microphone-20250319"
     },
     {
-        "brand": "GoCare",
-        "product_name": "One Minute Treatment Conditioner",
-        "discounted_price": 149,
-        "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/400ml-or-1000ml-one-minute-treatment-conditioner-20250312"
+        "brand": "Home Space",
+        "product_name": "12x Shoe Organizers",
+        "discounted_price": 279,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/12x-shoe-organizers-20250319"
     },
     {
-        "brand": "Novogracz",
-        "product_name": "Elite Gaming Chair",
-        "discounted_price": 2799,
-        "original_price": 4800,
-        "product_link": "https://www.onedayonly.co.za/products/elite-reclining-gaming-chair-with-adjustable-pillows-and-footrest-20250314"
+        "brand": "Scanpan",
+        "product_name": "5.5L Roasting Pan",
+        "discounted_price": 3899,
+        "original_price": 6500,
+        "product_link": "https://www.onedayonly.co.za/products/5-5l-maitre-d-roasting-pan-20250319"
     },
     {
-        "brand": "Simple Houseware",
-        "product_name": "Compact Foldable Side/Coffee Table",
-        "discounted_price": 549,
-        "original_price": 800,
-        "product_link": "https://www.onedayonly.co.za/products/compact-foldable-side-or-coffee-table-20250314"
+        "brand": "Scanpan",
+        "product_name": "32cm Frying Pan",
+        "discounted_price": 2399,
+        "original_price": 4100,
+        "product_link": "https://www.onedayonly.co.za/products/32cm-ctx-frying-pan-20250319"
     },
     {
-        "brand": "Acer",
-        "product_name": "600W 512Wh Portable Power Station",
+        "brand": "Scanpan",
+        "product_name": "3-Piece Chefs Knife Set",
+        "discounted_price": 1699,
+        "original_price": 2600,
+        "product_link": "https://www.onedayonly.co.za/products/3-piece-classic-steel-chefs-knife-set-20250319"
+    },
+    {
+        "brand": "Scanpan",
+        "product_name": "Mortar and Pestle",
+        "discounted_price": 1599,
+        "original_price": 2300,
+        "product_link": "https://www.onedayonly.co.za/products/maitre-d-mortar-and-pestle-20250319"
+    },
+    {
+        "brand": "Scanpan",
+        "product_name": "32cm CTX Wok",
         "discounted_price": 2999,
-        "original_price": 8000,
-        "product_link": "https://www.onedayonly.co.za/products/600w-512wh-portable-power-station-black-20250313"
+        "original_price": 4500,
+        "product_link": "https://www.onedayonly.co.za/products/32cm-ctx-wok-20250319"
     },
     {
-        "brand": "Hluhluwe Bush Camp",
-        "product_name": "2-Night Stay Stargazing Tent",
-        "discounted_price": 1999,
-        "original_price": 2500,
-        "product_link": "https://www.onedayonly.co.za/products/2-night-stay-stargazing-tent-per-couple-20250313"
+        "brand": "Scanpan",
+        "product_name": "7-Piece Knife Block Set",
+        "discounted_price": 5799,
+        "original_price": 9000,
+        "product_link": "https://www.onedayonly.co.za/products/7-piece-maitre-d-knife-block-set-20250319"
     },
     {
-        "brand": "BareTruth",
-        "product_name": "Seamless Shapewear Bodysuit",
-        "discounted_price": 199,
-        "original_price": 400,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-seamless-shapewear-bodysuit-20250314"
+        "brand": "Scanpan",
+        "product_name": "28cm Frying Pan",
+        "discounted_price": 2299,
+        "original_price": 3600,
+        "product_link": "https://www.onedayonly.co.za/products/28cm-ctx-frying-pan-20250319"
     },
     {
-        "brand": "BareTruth",
-        "product_name": "Seamless Low-Cut Bra",
-        "discounted_price": 149,
-        "original_price": 450,
-        "product_link": "https://www.onedayonly.co.za/products/seamless-low-cut-bra-20250314"
+        "brand": "Scanpan",
+        "product_name": "3.5L CTX Dutch Oven with Lid",
+        "discounted_price": 3499,
+        "original_price": 5000,
+        "product_link": "https://www.onedayonly.co.za/products/3-5l-ctx-dutch-oven-with-lid-20250319"
     },
     {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Buckle Wedges",
+        "brand": "Scanpan",
+        "product_name": "Chef Pan",
+        "discounted_price": 2999,
+        "original_price": 4000,
+        "product_link": "https://www.onedayonly.co.za/products/32cm-ctx-chef-pan-with-lid-20250319"
+    },
+    {
+        "brand": "Scanpan",
+        "product_name": "3.7L Deep Saute Pan",
+        "discounted_price": 3299,
+        "original_price": 4700,
+        "product_link": "https://www.onedayonly.co.za/products/26cm-ctx-deep-saute-pan-with-lid-20250319"
+    },
+    {
+        "brand": "Scanpan",
+        "product_name": "26cm Induction Saute Pan",
+        "discounted_price": 2999,
+        "original_price": 4500,
+        "product_link": "https://www.onedayonly.co.za/products/26cm-maitre-d-induction-saute-pan-20250319"
+    },
+    {
+        "brand": "Salex",
+        "product_name": "4x 60's SSR Refill Packs",
         "discounted_price": 499,
-        "original_price": 700,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-double-buckle-espadrille-wedge-20250307"
+        "original_price": 1040,
+        "product_link": "https://www.onedayonly.co.za/products/4x-60-s-saline-sinus-rinse-refill-packs-20250319"
     },
     {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Classic Heel Sandals",
-        "discounted_price": 349,
-        "original_price": 600,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-classic-block-heel-sandal-20250307"
+        "brand": "ParPerfect",
+        "product_name": "Putting Mat with Ball Return",
+        "discounted_price": 1999,
+        "original_price": 3000,
+        "product_link": "https://www.onedayonly.co.za/products/putting-mat-with-ball-return-20250319"
     },
     {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Wedge Sandals",
-        "discounted_price": 249,
-        "original_price": 450,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-sling-back-wedge-sandal-20250307"
+        "brand": "Crocs™",
+        "product_name": "Kids Lined Clogs",
+        "discounted_price": 499,
+        "original_price": 670,
+        "product_link": "https://www.onedayonly.co.za/products/kids-classic-lined-clogs-20250313"
     },
     {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Classic Sandals",
-        "discounted_price": 449,
-        "original_price": 600,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-classic-sandals-20250307"
-    },
-    {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Strappy Heel Sandals",
-        "discounted_price": 449,
-        "original_price": 700,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-ankle-strappy-wrap-block-heel-sandal-20250307"
-    },
-    {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Court Heels",
+        "brand": "Crocs™",
+        "product_name": "Toddler Lined Clogs",
         "discounted_price": 349,
         "original_price": 550,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-penny-court-heels-20250307"
+        "product_link": "https://www.onedayonly.co.za/products/toddler-classic-lined-clogs-20250313"
     },
     {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Knotted Sandals",
+        "brand": "Iconic Black",
+        "product_name": "Men's Soccer Kit Shorts",
         "discounted_price": 449,
-        "original_price": 700,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-knotted-strappy-block-heel-sandal-20250307"
+        "original_price": 900,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-afro-futuristic-soccer-kit-shorts-20250319"
     },
     {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Vamp Heel Sandals",
-        "discounted_price": 399,
-        "original_price": 650,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-padded-vamp-block-heel-sandal-20250307"
-    },
-    {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Lace Up Heel Sandals",
-        "discounted_price": 399,
-        "original_price": 600,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-lace-up-block-heel-sandal-20250307"
-    },
-    {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Hourglass Mule",
-        "discounted_price": 399,
-        "original_price": 600,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-vinyl-vamp-hourglass-mule-20250307"
-    },
-    {
-        "brand": "Madison Footwear",
-        "product_name": "Ladies Chunky Shoes",
-        "discounted_price": 449,
-        "original_price": 700,
-        "product_link": "https://www.onedayonly.co.za/products/ladies-chunky-sole-lace-up-shoes-20250307"
-    },
-    {
-        "brand": "Asic",
-        "product_name": "Counter Bar Chair",
-        "discounted_price": 1199,
-        "original_price": 1600,
-        "product_link": "https://www.onedayonly.co.za/products/counter-bar-chair-20250314"
-    },
-    {
-        "brand": "elevenpast",
-        "product_name": "Luigi Metal Bedside Table",
-        "discounted_price": 1799,
-        "original_price": 2200,
-        "product_link": "https://www.onedayonly.co.za/products/luigi-metal-bedside-table-20250314"
-    },
-    {
-        "brand": "Tirana",
-        "product_name": "Corner Patio Lounge Set",
-        "discounted_price": 14499,
-        "original_price": 19000,
-        "product_link": "https://www.onedayonly.co.za/products/corner-patio-lounge-set-20250314"
-    },
-    {
-        "brand": "Halton",
-        "product_name": "Electric Single Recliner",
-        "discounted_price": 10999,
-        "original_price": 13000,
-        "product_link": "https://www.onedayonly.co.za/products/electric-single-recliner-with-top-grain-leather-uppers-20250314"
-    },
-    {
-        "brand": "Elara",
-        "product_name": "Modern Swivel Armchair",
-        "discounted_price": 6999,
-        "original_price": 8000,
-        "product_link": "https://www.onedayonly.co.za/products/polyester-swivel-armchair-20250314"
-    },
-    {
-        "brand": "Asti",
-        "product_name": "Wooden Side Table",
-        "discounted_price": 1399,
-        "original_price": 1900,
-        "product_link": "https://www.onedayonly.co.za/products/mungur-and-teak-wooden-side-table-20250314"
-    },
-    {
-        "brand": "Merryfair",
-        "product_name": "Reya Ergonomic Office Chair",
-        "discounted_price": 6299,
-        "original_price": 9900,
-        "product_link": "https://www.onedayonly.co.za/products/reya-ergonomic-office-chair-20250314"
-    },
-    {
-        "brand": "ComfortKing",
-        "product_name": "U-Shaped Travel Pillow",
-        "discounted_price": 179,
-        "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/u-shaped-portable-foldable-travel-pillow-20250313"
-    },
-    {
-        "brand": "ComfortKing",
-        "product_name": "6-Piece Packing Cubes",
+        "brand": "Iconic Black",
+        "product_name": "Unisex Dad Caps",
         "discounted_price": 349,
-        "original_price": 600,
-        "product_link": "https://www.onedayonly.co.za/products/6-piece-compressible-packing-cubes-20250313"
-    },
-    {
-        "brand": "Paklite",
-        "product_name": "Hardside Spinner Trolley Case",
-        "discounted_price": 899,
-        "original_price": 2000,
-        "product_link": "https://www.onedayonly.co.za/products/ridge-hardside-spinner-trolley-case-with-tsa-lock-20250314"
-    },
-    {
-        "brand": "T60",
-        "product_name": "2x Nylon Duffle Bags",
-        "discounted_price": 379,
         "original_price": 750,
-        "product_link": "https://www.onedayonly.co.za/products/2x-multi-purpose-nylon-sport-duffle-bag-20250314"
+        "product_link": "https://www.onedayonly.co.za/products/unisex-dad-caps-20250319"
     },
     {
-        "brand": "LDNIO",
-        "product_name": "2x International Travel Chargers",
-        "discounted_price": 199,
-        "original_price": 400,
-        "product_link": "https://www.onedayonly.co.za/products/2x-international-travel-plug-adapters-20250311"
+        "brand": "Volkano",
+        "product_name": "Earphones & Watch Bundle",
+        "discounted_price": 499,
+        "original_price": 730,
+        "product_link": "https://www.onedayonly.co.za/products/sagittarius-series-true-wireless-earphones-serene-watch-series-bundle-20250319"
     },
     {
-        "brand": "BlueTech",
-        "product_name": "2x Foldable Wireless Headphones",
-        "discounted_price": 299,
-        "original_price": 800,
-        "product_link": "https://www.onedayonly.co.za/products/2x-foldable-wireless-headphones-20250314"
-    },
-    {
-        "brand": "Paklite",
-        "product_name": "Ridge Vanity Case",
-        "discounted_price": 399,
-        "original_price": 800,
-        "product_link": "https://www.onedayonly.co.za/products/ridge-vanity-case-20250314"
-    },
-    {
-        "brand": "Mind to Mind",
-        "product_name": "Wordsearch & Sudoku Books",
-        "discounted_price": 299,
-        "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/brain-boosting-wordsearch-sudoku-books-4-books-20250314"
-    },
-    {
-        "brand": "Mind to Mind",
-        "product_name": "Maze Colouring Books",
-        "discounted_price": 299,
-        "original_price": 560,
-        "product_link": "https://www.onedayonly.co.za/products/maze-colouring-books-4-books-20250314"
-    },
-    {
-        "brand": "WUW",
-        "product_name": "20000mAh PD Power Bank",
-        "discounted_price": 399,
-        "original_price": 1000,
-        "product_link": "https://www.onedayonly.co.za/products/20000mah-22-5w-quick-charge-pd-power-bank-20250310"
-    },
-    {
-        "brand": "Urban Living",
-        "product_name": "Expandable Travel Bag with Wheels",
-        "discounted_price": 249,
-        "original_price": 330,
-        "product_link": "https://www.onedayonly.co.za/products/expandable-multifunctional-travel-bag-with-wheels-20250314"
-    },
-    {
-        "brand": "Dinesh",
-        "product_name": "Aluminium Top Coffee Tables",
-        "discounted_price": 6499,
-        "original_price": 7500,
-        "product_link": "https://www.onedayonly.co.za/products/aluminium-top-coffee-tables-20250314"
-    },
-    {
-        "brand": "Cavern",
-        "product_name": "2.2m Dining Table",
-        "discounted_price": 18999,
-        "original_price": 20800,
-        "product_link": "https://www.onedayonly.co.za/products/2-2m-teak-wood-dining-table-20250314"
-    },
-    {
-        "brand": "Halton",
-        "product_name": "2-Seater Cinema Recliner",
-        "discounted_price": 16499,
-        "original_price": 18000,
-        "product_link": "https://www.onedayonly.co.za/products/top-grain-leather-2-seater-cinema-recliner-20250314"
-    },
-    {
-        "brand": "Cuban",
-        "product_name": "Full-Grain Leather Couch",
-        "discounted_price": 27999,
-        "original_price": 30000,
-        "product_link": "https://www.onedayonly.co.za/products/full-grain-leather-couch-20250314"
-    },
-    {
-        "brand": "Brooklyn",
-        "product_name": "Brushed Finish Desk",
-        "discounted_price": 5399,
-        "original_price": 6300,
-        "product_link": "https://www.onedayonly.co.za/products/brushed-finish-desk-20250314"
-    },
-    {
-        "brand": "Lesto",
-        "product_name": "Natural Grey Coffee Table",
-        "discounted_price": 5299,
-        "original_price": 5900,
-        "product_link": "https://www.onedayonly.co.za/products/natural-grey-coffee-table-20250314"
-    },
-    {
-        "brand": "Bennet",
-        "product_name": "Leather Tall Bar Chair",
-        "discounted_price": 3399,
-        "original_price": 4000,
-        "product_link": "https://www.onedayonly.co.za/products/leather-tall-bar-chair-20250314"
-    },
-    {
-        "brand": "Health Concepts",
-        "product_name": "Gym Tank Resistance Sled",
-        "discounted_price": 24999,
-        "original_price": 32000,
-        "product_link": "https://www.onedayonly.co.za/products/gym-tank-resistance-sled-20250314"
-    },
-    {
-        "brand": "FitPro",
-        "product_name": "16x PVC Interlocking Tiles",
-        "discounted_price": 549,
-        "original_price": 800,
-        "product_link": "https://www.onedayonly.co.za/products/16x-pvc-interlocking-tiles-20250313"
-    },
-    {
-        "brand": "FitPro",
-        "product_name": "Multi-Purpose Training Bar",
-        "discounted_price": 849,
-        "original_price": 2600,
-        "product_link": "https://www.onedayonly.co.za/products/multi-purpose-training-bar-20250313"
-    },
-    {
-        "brand": "Fit Flow",
-        "product_name": "Soccer Footwork Training Mat",
-        "discounted_price": 199,
-        "original_price": 350,
-        "product_link": "https://www.onedayonly.co.za/products/soccer-footwork-training-mat-20250314"
-    },
-    {
-        "brand": "Fit Flow",
-        "product_name": "7-Piece Stretching & Shaping Set",
-        "discounted_price": 279,
-        "original_price": 400,
-        "product_link": "https://www.onedayonly.co.za/products/7-piece-indoor-fitness-stretching-and-shaping-set-20250314"
-    },
-    {
-        "brand": "Fit Flow",
-        "product_name": "2x Soccer Kick Trainer Belts",
-        "discounted_price": 159,
-        "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/2x-adjustable-soccer-kick-trainer-waist-belts-20250314"
-    },
-    {
-        "brand": "Sip Easy",
-        "product_name": "800ml Double-Wall Flask",
-        "discounted_price": 199,
+        "brand": "VolkanoX",
+        "product_name": "Rechargeable Wireless Mouse",
+        "discounted_price": 329,
         "original_price": 450,
-        "product_link": "https://www.onedayonly.co.za/products/800ml-stainless-steel-double-wall-flask-20250314"
+        "product_link": "https://www.onedayonly.co.za/products/lithium-series-bluetooth-dual-mode-rechargeable-wireless-mouse-20250320"
     },
     {
-        "brand": "Up Gear",
-        "product_name": "100ml Liquid Chalk",
-        "discounted_price": 169,
+        "brand": "Volkano",
+        "product_name": "30000mAh Power Bank",
+        "discounted_price": 499,
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/30000mah-remus-series-fast-charge-pd-power-bank-20250319"
+    },
+    {
+        "brand": "VolkanoX",
+        "product_name": "Wave Series Bluetooth Speaker",
+        "discounted_price": 549,
+        "original_price": 700,
+        "product_link": "https://www.onedayonly.co.za/products/wave-series-bluetooth-speaker-20250319"
+    },
+    {
+        "brand": "Volkano",
+        "product_name": "Thrive Series Headphones",
+        "discounted_price": 249,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/thrive-series-bluetooth-rechargeable-headphones-20250320"
+    },
+    {
+        "brand": "VolkanoX",
+        "product_name": "Core USB Type-C Hub",
+        "discounted_price": 399,
+        "original_price": 1100,
+        "product_link": "https://www.onedayonly.co.za/products/core-multi-series-usb-type-c-hub-20250319"
+    },
+    {
+        "brand": "Volkano",
+        "product_name": "Portable Bluetooth Speaker",
+        "discounted_price": 499,
+        "original_price": 700,
+        "product_link": "https://www.onedayonly.co.za/products/rave-series-portable-bluetooth-speaker-20250319"
+    },
+    {
+        "brand": "VolkanoX",
+        "product_name": "Party Speaker with RGB Lights",
+        "discounted_price": 2599,
+        "original_price": 3500,
+        "product_link": "https://www.onedayonly.co.za/products/6-5-bluetooth-party-speaker-with-rgb-lights-model-vxp300-20250319"
+    },
+    {
+        "brand": "Volkano",
+        "product_name": "Air Conduction TW Earphones",
+        "discounted_price": 399,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/stride-stride-series-air-conduction-tw-earphones-20250319"
+    },
+    {
+        "brand": "Volkano",
+        "product_name": "Elegant Series Smart Watch",
+        "discounted_price": 549,
+        "original_price": 900,
+        "product_link": "https://www.onedayonly.co.za/products/elegant-series-multi-functional-smart-watch-20250319"
+    },
+    {
+        "brand": "Volkano",
+        "product_name": "20000mAh Powerbank",
+        "discounted_price": 349,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/20000mah-roma-series-pd-20w-power-bank-20250319"
+    },
+    {
+        "brand": "Kuchenprofi",
+        "product_name": "Borosilicate Glass Tibetan Teapot",
+        "discounted_price": 699,
+        "original_price": 1000,
+        "product_link": "https://www.onedayonly.co.za/products/borosilicate-glass-tibetan-teapot-20250319"
+    },
+    {
+        "brand": "Kuchenprofi",
+        "product_name": "Stainless Steel Hand Soap",
+        "discounted_price": 199,
         "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/100ml-liquid-chalk-20250313"
+        "product_link": "https://www.onedayonly.co.za/products/stainless-steel-hand-odour-eliminator-soap-20250319"
     },
     {
-        "brand": "Bennet",
-        "product_name": "Leather Dining Chair",
-        "discounted_price": 3199,
-        "original_price": 3800,
-        "product_link": "https://www.onedayonly.co.za/products/leather-dining-chair-20250314"
+        "brand": "Kuchenprofi",
+        "product_name": "200ml Trattoria Vinegar Dispenser",
+        "discounted_price": 369,
+        "original_price": 530,
+        "product_link": "https://www.onedayonly.co.za/products/200ml-trattoria-oil-dispenser-20250319"
     },
     {
-        "brand": "SpacePurify",
-        "product_name": "3D Moon Lamp Humidifier",
-        "discounted_price": 129,
+        "brand": "Kuchenprofi",
+        "product_name": "Pizza Stone with Rack",
+        "discounted_price": 499,
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/30cm-pizza-stone-with-rack-20250319"
+    },
+    {
+        "brand": "Vickers Armstrong",
+        "product_name": "Men's Beacon Watch",
+        "discounted_price": 1999,
+        "original_price": 11950,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-limited-edition-hand-assembled-beacon-watch-20250319"
+    },
+    {
+        "brand": "Rizzen",
+        "product_name": "5.12kWh LiFeP04 Battery",
+        "discounted_price": 14999,
+        "original_price": 35000,
+        "product_link": "https://www.onedayonly.co.za/products/5-12kwh-lifep04-lithium-phosphate-battery-20250319"
+    },
+    {
+        "brand": "Cape Umbrellas",
+        "product_name": "Easylift Hardwood Umbrella",
+        "discounted_price": 5999,
+        "original_price": 7500,
+        "product_link": "https://www.onedayonly.co.za/products/premium-montagu-octagonal-hardwood-patio-umbrella-with-easilift-system-and-protective-cover-20250319"
+    },
+    {
+        "brand": "Treno",
+        "product_name": "2x Rechargeable LED Lanterns",
+        "discounted_price": 499,
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/2x-1000-lumens-rechargeable-led-lanterns-and-powerbank-20250320"
+    },
+    {
+        "brand": "Camp Kit",
+        "product_name": "Self-Inflatable Camping Mattress",
+        "discounted_price": 549,
+        "original_price": 850,
+        "product_link": "https://www.onedayonly.co.za/products/self-inflating-camping-mattress-with-portable-carry-bag-20250319"
+    },
+    {
+        "brand": "Ever Hike",
+        "product_name": "5x Emergency Camping Blankets",
+        "discounted_price": 249,
+        "original_price": 450,
+        "product_link": "https://www.onedayonly.co.za/products/5x-emergency-thermal-camping-blankets-20250319"
+    },
+    {
+        "brand": "Pop-Up",
+        "product_name": "Camping Privacy/Shower Tent",
+        "discounted_price": 499,
+        "original_price": 1000,
+        "product_link": "https://www.onedayonly.co.za/products/portable-instant-pop-up-camping-privacy-shower-tent-20250319"
+    },
+    {
+        "brand": "AP-Tech",
+        "product_name": "Clip-on Phone Make Up Light",
+        "discounted_price": 99,
+        "original_price": 150,
+        "product_link": "https://www.onedayonly.co.za/products/clip-on-phone-make-up-light-20250320"
+    },
+    {
+        "brand": "ArcSplash",
+        "product_name": "2x Rainbow Umbrellas",
+        "discounted_price": 199,
+        "original_price": 400,
+        "product_link": "https://www.onedayonly.co.za/products/2x-auto-open-rainbow-umbrellas-with-hook-handle-20250219"
+    },
+    {
+        "brand": "LP",
+        "product_name": "Solar Bluetooth Speaker",
+        "discounted_price": 179,
+        "original_price": 450,
+        "product_link": "https://www.onedayonly.co.za/products/portable-mini-wireless-speaker-black-20250319"
+    },
+    {
+        "brand": "GreatThink",
+        "product_name": "10000mAh Torch Power Bank",
+        "discounted_price": 299,
+        "original_price": 400,
+        "product_link": "https://www.onedayonly.co.za/products/10000mah-power-bank-with-built-in-cables-and-torch-20250320"
+    },
+    {
+        "brand": "Glacier",
+        "product_name": "2x 350ml Double Wall Mugs",
+        "discounted_price": 329,
+        "original_price": 650,
+        "product_link": "https://www.onedayonly.co.za/products/2x-350ml-stainless-steel-double-wall-mugs-20250319"
+    },
+    {
+        "brand": "HandyTools",
+        "product_name": "13-Piece Survival Kit",
+        "discounted_price": 379,
+        "original_price": 650,
+        "product_link": "https://www.onedayonly.co.za/products/13-piece-outdoor-emergency-survival-kit-20250319"
+    },
+    {
+        "brand": "AeroBliss",
+        "product_name": "Handheld Rechargeable Fan",
+        "discounted_price": 99,
         "original_price": 200,
-        "product_link": "https://www.onedayonly.co.za/products/3d-touch-moon-lamp-humidifier-20250314"
+        "product_link": "https://www.onedayonly.co.za/products/handheld-rechargeable-fan-with-stand-20250319"
+    },
+    {
+        "brand": "Bull Captain",
+        "product_name": "Leather Ribbed Laptop Bag",
+        "discounted_price": 1299,
+        "original_price": 1800,
+        "product_link": "https://www.onedayonly.co.za/products/genuine-leather-ribbed-laptop-bag-sling-20250319"
     },
     {
         "brand": "Ergo",
-        "product_name": "6x Magnetic Cable Clips",
-        "discounted_price": 149,
-        "original_price": 350,
-        "product_link": "https://www.onedayonly.co.za/products/6x-magnetic-cable-clips-20250314"
-    },
-    {
-        "brand": "NeatPro",
-        "product_name": "2x Mountable Bathroom Shelves",
+        "product_name": "Wooden Desk Stand",
         "discounted_price": 199,
-        "original_price": 450,
-        "product_link": "https://www.onedayonly.co.za/products/2x-wall-mountable-bathroom-shelves-20250314"
-    },
-    {
-        "brand": "FlyAway",
-        "product_name": "2x 3-in-1 Rechargeable Insect Swatters",
-        "discounted_price": 349,
-        "original_price": 800,
-        "product_link": "https://www.onedayonly.co.za/products/2x-3-in-1-rechargeable-insect-swatters-20250314"
-    },
-    {
-        "brand": "Fix-It",
-        "product_name": "130-in-1 Screwdriver Set",
-        "discounted_price": 349,
-        "original_price": 600,
-        "product_link": "https://www.onedayonly.co.za/products/130-in-1-magnetic-precision-screwdriver-set-20250314"
-    },
-    {
-        "brand": "Purrfect Pal",
-        "product_name": "Interactive Pet Food Toy",
-        "discounted_price": 149,
-        "original_price": 250,
-        "product_link": "https://www.onedayonly.co.za/products/interactive-pet-food-dispenser-toy-20250314"
-    },
-    {
-        "brand": "Anchor",
-        "product_name": "2x Waterproof Patio Cover Sails",
-        "discounted_price": 629,
-        "original_price": 900,
-        "product_link": "https://www.onedayonly.co.za/products/shade-sail-patio-cover-20250205"
-    },
-    {
-        "brand": "Anchor",
-        "product_name": "3-Piece Indoor/Outdoor Set",
-        "discounted_price": 1299,
-        "original_price": 2000,
-        "product_link": "https://www.onedayonly.co.za/products/indoor-outdoor-bistro-set-20250314"
-    },
-    {
-        "brand": "Anchor",
-        "product_name": "Heavy Duty Utility Wagon",
-        "discounted_price": 1199,
-        "original_price": 1800,
-        "product_link": "https://www.onedayonly.co.za/products/heavy-duty-utility-wagon-20250314"
-    },
-    {
-        "brand": "Anchor",
-        "product_name": "4x Padded Folding Chairs",
-        "discounted_price": 1499,
-        "original_price": 1800,
-        "product_link": "https://www.onedayonly.co.za/products/2x-white-padded-folding-chairs-20250314"
-    },
-    {
-        "brand": "Anchor",
-        "product_name": "Lightweight Directors Camping Chair",
-        "discounted_price": 1399,
-        "original_price": 2000,
-        "product_link": "https://www.onedayonly.co.za/products/lightweight-foldable-directors-camping-chair-with-cooler-compartment-20250314"
-    },
-    {
-        "brand": "Anchor",
-        "product_name": "2x Gravity Folding Loungers",
-        "discounted_price": 1799,
-        "original_price": 2500,
-        "product_link": "https://www.onedayonly.co.za/products/2x-gravity-folding-loungers-20250314"
-    },
-    {
-        "brand": "Anchor",
-        "product_name": "3-Piece Outdoor Balcony Set",
-        "discounted_price": 2399,
-        "original_price": 3300,
-        "product_link": "https://www.onedayonly.co.za/products/3-piece-outdoor-balcony-set-20250314"
-    },
-    {
-        "brand": "Anchor",
-        "product_name": "2x Cushioned Sun Folding Loungers",
-        "discounted_price": 1999,
-        "original_price": 2500,
-        "product_link": "https://www.onedayonly.co.za/products/2x-cushioned-sun-folding-loungers-20250314"
-    },
-    {
-        "brand": "SolarMax",
-        "product_name": "Solar Rechargeable Flood Light",
-        "discounted_price": 799,
-        "original_price": 1100,
-        "product_link": "https://www.onedayonly.co.za/products/200w-300w-or-400w-solar-rechargeable-flood-light-20250314"
-    },
-    {
-        "brand": "Relief Seat",
-        "product_name": "Ergonomic Gel Relief Cushion",
-        "discounted_price": 299,
         "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/ergonomic-gel-pain-relief-seat-cushion-20250314"
+        "product_link": "https://www.onedayonly.co.za/products/wooden-modern-desk-stand-20250319"
     },
     {
-        "brand": "Knoble Knee",
-        "product_name": "USB Heating Relief Knee Pad",
+        "brand": "Oral-B",
+        "product_name": "iO Rechargeable Toothbrush",
+        "discounted_price": null,
+        "original_price": null,
+        "product_link": "https://www.onedayonly.co.za/products/io-rechargeable-toothbrush-20250224"
+    },
+    {
+        "brand": "Sta-Soft",
+        "product_name": "3x 1L Fabric Softener",
         "discounted_price": 199,
-        "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/usb-heating-relief-knee-pad-20250314"
+        "original_price": 199,
+        "product_link": "https://www.onedayonly.co.za/products/3x-1l-ultra-concentrate-fabric-softener-20250318"
     },
     {
-        "brand": "Shoe Store",
-        "product_name": "6x Shoe Storage Containers",
-        "discounted_price": 249,
-        "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/6x-stackable-shoe-storage-containers-20250314"
-    },
-    {
-        "brand": "Malibu Glow",
-        "product_name": "10ml Tanning Drops",
-        "discounted_price": 469,
-        "original_price": 700,
-        "product_link": "https://www.onedayonly.co.za/products/10ml-double-strength-sublingual-tanning-drops-20250307"
-    },
-    {
-        "brand": "Malibu Glow",
-        "product_name": "20ml Tanning Nasal Spray",
-        "discounted_price": 449,
-        "original_price": 600,
-        "product_link": "https://www.onedayonly.co.za/products/20ml-tanning-nasal-spray-20250307"
-    },
-    {
-        "brand": "Destiny",
-        "product_name": "Minnie Mouse Set",
-        "discounted_price": 399,
-        "original_price": 750,
-        "product_link": "https://www.onedayonly.co.za/products/minnie-mouse-set-with-swarovski-crystals-20250314"
-    },
-    {
-        "brand": "CDE",
-        "product_name": "Swarovski Crystal Stud Earrings",
-        "discounted_price": 299,
-        "original_price": 450,
-        "product_link": "https://www.onedayonly.co.za/products/round-stud-earrings-with-swarovski-crystals-20250314"
-    },
-    {
-        "brand": "Destiny",
-        "product_name": "Hello Kitty Earring",
-        "discounted_price": 399,
-        "original_price": 750,
-        "product_link": "https://www.onedayonly.co.za/products/hello-kitty-set-with-swarovski-crystals-20250314"
-    },
-    {
-        "brand": "Destiny",
-        "product_name": "Allison Swarovski Earrings",
-        "discounted_price": 399,
-        "original_price": 800,
-        "product_link": "https://www.onedayonly.co.za/products/allison-earrings-with-swarovski-crystals-20250314"
-    },
-    {
-        "brand": "CDE",
-        "product_name": "Pearl Earring and Necklace Set",
+        "brand": "ParPerfect",
+        "product_name": "Golf Swing Trainer",
         "discounted_price": 1899,
-        "original_price": 3100,
-        "product_link": "https://www.onedayonly.co.za/products/freshwater-pearl-stud-earrings-and-necklace-set-20250314"
+        "original_price": 2500,
+        "product_link": "https://www.onedayonly.co.za/products/golf-swing-trainer-20250319"
     },
     {
-        "brand": "Destiny",
-        "product_name": "Swarovski Birthstone Stud Earrings with Case",
-        "discounted_price": 199,
-        "original_price": 330,
-        "product_link": "https://www.onedayonly.co.za/products/birthstone-stud-earrings-with-swarovski-crystals-in-a-macaroon-case-20250314"
-    },
-    {
-        "brand": "Destiny",
-        "product_name": "Jewellery Advent Calendar",
-        "discounted_price": 999,
-        "original_price": 2200,
-        "product_link": "https://www.onedayonly.co.za/products/jewellery-collection-advent-calendar-with-crystals-from-swarovskir-20250314"
-    },
-    {
-        "brand": "CDE",
-        "product_name": "Sterling Silver Bella Earrings",
-        "discounted_price": 399,
-        "original_price": 700,
-        "product_link": "https://www.onedayonly.co.za/products/sterling-silver-bella-earrings-with-swarovski-crystals-20250314"
-    },
-    {
-        "brand": "CDE",
-        "product_name": "Sterling Silver Bella Necklace",
-        "discounted_price": 399,
-        "original_price": 890,
-        "product_link": "https://www.onedayonly.co.za/products/sterling-silver-bella-necklace-with-swarovski-crystals-20250314"
-    },
-    {
-        "brand": "Advent Inc.",
-        "product_name": "24-Piece Jewellery Advent Calendar",
-        "discounted_price": 399,
-        "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/24-piece-jewellery-advent-calendar-20250314"
-    },
-    {
-        "brand": "Reiki",
-        "product_name": "Chakra Healing Reiki Bracelet",
-        "discounted_price": 129,
-        "original_price": 340,
-        "product_link": "https://www.onedayonly.co.za/products/7-chakra-reiki-healing-bracelet-20250314"
-    },
-    {
-        "brand": "Bathroom Solutions",
-        "product_name": "Shower Caddy with Suction Cup",
-        "discounted_price": 229,
-        "original_price": 360,
-        "product_link": "https://www.onedayonly.co.za/products/multi-functional-shower-caddy-with-suction-cup-20250314"
-    },
-    {
-        "brand": "Bathroom Solutions",
-        "product_name": "3-Tier Shower Rack",
-        "discounted_price": 299,
-        "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/3-tier-self-draining-shower-rack-20250314"
-    },
-    {
-        "brand": "Olio",
-        "product_name": "60's CBD Sleeping Capsules",
-        "discounted_price": 349,
-        "original_price": 550,
-        "product_link": "https://www.onedayonly.co.za/products/600mg-cbd-sleeping-capsules-60-s-20250314"
-    },
-    {
-        "brand": "Olio",
-        "product_name": "60's Libido Capsules",
-        "discounted_price": 289,
-        "original_price": 380,
-        "product_link": "https://www.onedayonly.co.za/products/libido-for-him-or-her-capsules-60-s-20250314"
-    },
-    {
-        "brand": "Outback",
-        "product_name": "Meteor Gas BBQ with Vented Cover",
-        "discounted_price": 10999,
-        "original_price": 14000,
-        "product_link": "https://www.onedayonly.co.za/products/meteor-4-burner-gas-bbq-with-vented-cover-20250314"
-    },
-    {
-        "brand": "Outback",
-        "product_name": "Dual Fuel Gas BBQ with Cover",
-        "discounted_price": 11499,
-        "original_price": 14500,
-        "product_link": "https://www.onedayonly.co.za/products/dual-fuel-2-burner-gas-bbq-with-cover-20250314"
-    },
-    {
-        "brand": "Outback",
-        "product_name": "Charcoal Kettle BBQ with Cover",
-        "discounted_price": 4199,
-        "original_price": 5500,
-        "product_link": "https://www.onedayonly.co.za/products/comet-charcoal-kettle-bbq-with-cover-20250314"
-    },
-    {
-        "brand": "Marc Zao-Sanders",
-        "product_name": "Timeboxing",
-        "discounted_price": 259,
-        "original_price": 380,
-        "product_link": "https://www.onedayonly.co.za/products/timeboxing-the-power-of-doing-one-thing-at-a-time-20250313"
-    },
-    {
-        "brand": "Mary Claire Haver",
-        "product_name": "New Menopause",
-        "discounted_price": 299,
-        "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/new-menopause-navigating-your-path-paperback-20250307"
-    },
-    {
-        "brand": "Josh Connolly",
-        "product_name": "Its Them Not You: Toxic Parents",
-        "discounted_price": 269,
-        "original_price": 360,
-        "product_link": "https://www.onedayonly.co.za/products/its-them-not-you-toxic-parents-paperback-20250307"
-    },
-    {
-        "brand": "Catherine Price",
-        "product_name": "The Power of Fun",
-        "discounted_price": 199,
-        "original_price": 280,
-        "product_link": "https://www.onedayonly.co.za/products/the-power-of-fun-why-fun-is-the-key-to-a-happy-and-healthy-life-20250313"
-    },
-    {
-        "brand": "Robin Sharma",
-        "product_name": "The Wealth Money Can't Buy",
-        "discounted_price": 259,
-        "original_price": 350,
-        "product_link": "https://www.onedayonly.co.za/products/the-wealth-money-can-t-buy-20250307"
-    },
-    {
-        "brand": "Matthew Walker",
-        "product_name": "Why We Sleep",
-        "discounted_price": 199,
-        "original_price": 280,
-        "product_link": "https://www.onedayonly.co.za/products/why-we-sleep-paperback-20250313"
-    },
-    {
-        "brand": "Adam Grant",
-        "product_name": "Hidden Potential",
-        "discounted_price": 259,
-        "original_price": 390,
-        "product_link": "https://www.onedayonly.co.za/products/hidden-potential-the-science-of-achieving-greater-things-paperback-20250312"
-    },
-    {
-        "brand": "Bill Bryson",
-        "product_name": "The Body Illustrated",
-        "discounted_price": 349,
-        "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/the-body-illustrated-hardcover-20250312"
-    },
-    {
-        "brand": "Michael Watkins",
-        "product_name": "Six Disciplines of Strategic Thinking",
-        "discounted_price": 279,
-        "original_price": 400,
-        "product_link": "https://www.onedayonly.co.za/products/the-six-disciplines-of-strategic-thinking-leading-your-organization-into-the-future-20250307"
-    },
-    {
-        "brand": "Annie Duke",
-        "product_name": "Quit",
-        "discounted_price": 199,
-        "original_price": 280,
-        "product_link": "https://www.onedayonly.co.za/products/quit-the-power-of-knowing-when-to-walk-away-paperback-20250312"
-    },
-    {
-        "brand": "Viktor E Frankl",
-        "product_name": "Embracing Hope: On Freedom",
-        "discounted_price": 259,
-        "original_price": 400,
-        "product_link": "https://www.onedayonly.co.za/products/embracing-hope-on-freedom-hardcover-20250313"
-    },
-    {
-        "brand": "Cuulah",
-        "product_name": "17L Helia Backpack",
-        "discounted_price": 899,
-        "original_price": 2000,
-        "product_link": "https://www.onedayonly.co.za/products/17l-helia-backpack-with-15-laptop-compartment-20250314"
-    },
-    {
-        "brand": "Cuulah",
-        "product_name": "18L Theia Backpack",
-        "discounted_price": 899,
-        "original_price": 2000,
-        "product_link": "https://www.onedayonly.co.za/products/18l-theia-backpack-with-15-laptop-compartment-20250314"
-    },
-    {
-        "brand": "KitchenEase",
-        "product_name": "2x 3-Tier Egg Dispensers",
-        "discounted_price": 249,
-        "original_price": 350,
-        "product_link": "https://www.onedayonly.co.za/products/2x-3-tier-egg-dispensers-20250314"
-    },
-    {
-        "brand": "Swiss Diamond",
-        "product_name": "Stainless Steel Induction Frying Pan",
-        "discounted_price": 799,
-        "original_price": 1400,
-        "product_link": "https://www.onedayonly.co.za/products/24cm-stainless-steel-induction-frying-pan-20250314"
-    },
-    {
-        "brand": "Creative Kitchens",
-        "product_name": "3L Marble Inspired Whistling Kettle",
-        "discounted_price": 299,
-        "original_price": 800,
-        "product_link": "https://www.onedayonly.co.za/products/3l-marble-inspired-whistling-stove-top-kettle-20250314"
-    },
-    {
-        "brand": "Elite Home",
-        "product_name": "Flexible Cleaning Brush",
-        "discounted_price": 99,
-        "original_price": 150,
-        "product_link": "https://www.onedayonly.co.za/products/flexible-washing-machine-cleaning-brush-20250314"
-    },
-    {
-        "brand": "Watchful",
-        "product_name": "Silicone Ribbed Magnetic Strap",
-        "discounted_price": 179,
-        "original_price": 350,
-        "product_link": "https://www.onedayonly.co.za/products/silicone-ribbed-two-toned-magnetic-replacement-watch-strap-20250314"
-    },
-    {
-        "brand": "Stellar Lighting",
-        "product_name": "2x Night Light Phone Chargers",
-        "discounted_price": 479,
-        "original_price": 1200,
-        "product_link": "https://www.onedayonly.co.za/products/2x-night-light-phone-charger-speaker-20250314"
-    },
-    {
-        "brand": "Stellar Lighting",
-        "product_name": "20m Vinatage Bulbs String Lights",
-        "discounted_price": 1199,
-        "original_price": 2200,
-        "product_link": "https://www.onedayonly.co.za/products/20m-20-led-festoon-vintage-bulbs-string-lights-20250314"
-    },
-    {
-        "brand": "Stellar Lighting",
-        "product_name": "2x 10m Solar Retro String Lights",
-        "discounted_price": 1299,
-        "original_price": 2200,
-        "product_link": "https://www.onedayonly.co.za/products/2x-10m-solar-25-wire-led-classic-retro-bulb-string-lights-20250314"
-    },
-    {
-        "brand": "Stellar Lighting",
-        "product_name": "20m Solar Copper Wire Fairy Lights",
-        "discounted_price": 179,
-        "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/20m-solar-led-copper-wire-fairy-lights-20250314"
-    },
-    {
-        "brand": "Stellar Lighting",
-        "product_name": "10m Solar Vintage String Lights",
-        "discounted_price": 749,
-        "original_price": 1200,
-        "product_link": "https://www.onedayonly.co.za/products/10m-solar-10-led-festoon-vintage-bulb-string-lights-20250314"
-    },
-    {
-        "brand": "Stellar Lighting",
-        "product_name": "Rechargeable Night Light",
-        "discounted_price": 279,
-        "original_price": 450,
-        "product_link": "https://www.onedayonly.co.za/products/novelty-rechargeable-led-book-night-light-20250314"
-    },
-    {
-        "brand": "Stellar Lighting",
-        "product_name": "2x 10m Solar Powered String Lights",
-        "discounted_price": 1399,
-        "original_price": 2000,
-        "product_link": "https://www.onedayonly.co.za/products/2x-10m-solar-powered-warm-white-25-led-bulbs-string-lights-20250314"
-    },
-    {
-        "brand": "Gino Bardini",
-        "product_name": "Men's Short Sleeve Shirt",
-        "discounted_price": 329,
-        "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-short-sleeve-checked-button-up-shirt-20250314"
-    },
-    {
-        "brand": "Tosy",
-        "product_name": "UFO U-Fly Toy",
-        "discounted_price": 159,
-        "original_price": 200,
-        "product_link": "https://www.onedayonly.co.za/products/ufo-u-fly-toy-20250314"
-    },
-    {
-        "brand": "Smart Thinking",
-        "product_name": "Spinning Water Sprinkler",
-        "discounted_price": 279,
-        "original_price": 380,
-        "product_link": "https://www.onedayonly.co.za/products/rainbow-pegasus-spinning-water-sprinkler-20250314"
-    },
-    {
-        "brand": "Wash Wise",
-        "product_name": "4x Reusable Laundry Lint Catchers",
-        "discounted_price": 179,
-        "original_price": 350,
-        "product_link": "https://www.onedayonly.co.za/products/4x-reusable-floating-laundry-top-loader-lint-catchers-20250314"
-    },
-    {
-        "brand": "Bag Vista",
-        "product_name": "Two-Tone Beach Tote Bag",
-        "discounted_price": 179,
-        "original_price": 400,
-        "product_link": "https://www.onedayonly.co.za/products/two-tone-cotton-beach-tote-bag-20250314"
-    },
-    {
-        "brand": "Aqua Optima",
-        "product_name": "2.1L Water Jug",
-        "discounted_price": 169,
-        "original_price": 350,
-        "product_link": "https://www.onedayonly.co.za/products/2-1l-filter-water-jug-20250314"
-    },
-    {
-        "brand": "Rain Guard",
-        "product_name": "Large 8 Panel Umbrella",
-        "discounted_price": 199,
-        "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/large-8-panel-firm-grip-umbrella-with-cover-20250314"
-    },
-    {
-        "brand": "Timberland",
-        "product_name": "Men's Kennebunk Watch",
-        "discounted_price": 2099,
-        "original_price": 4200,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-kennebunk-multi-function-leather-strap-watch-20250314"
-    },
-    {
-        "brand": "Timberland",
-        "product_name": "Men's Flowell Watch",
+        "brand": "ParPerfect",
+        "product_name": "Portable Putting Mat",
         "discounted_price": 2199,
-        "original_price": 4600,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-flowell-leather-strap-watch-20250314"
+        "original_price": 3000,
+        "product_link": "https://www.onedayonly.co.za/products/portable-putting-mat-with-12-holes-20250319"
     },
     {
-        "brand": "Timberland",
-        "product_name": "Men's Shackford Watch",
-        "discounted_price": 1499,
-        "original_price": 3150,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-black-shackford-quartz-watch-20250314"
-    },
-    {
-        "brand": "Timberland",
-        "product_name": "Men's Wakeda Watch",
-        "discounted_price": 1999,
-        "original_price": 4300,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-wakeda-multi-function-watch-20250314"
-    },
-    {
-        "brand": "Timberland",
-        "product_name": "Men's Hadlock Watch",
-        "discounted_price": 1999,
-        "original_price": 4300,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-hadlock-multi-function-watch-20250314"
-    },
-    {
-        "brand": "Timberland",
-        "product_name": "Men's 3 Hand Watch",
+        "brand": "Mizuno",
+        "product_name": "Men's or Ladies Daichi Shoes",
         "discounted_price": 1449,
-        "original_price": 2950,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-3-hand-quartz-watch-20250314"
+        "original_price": 2700,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-or-ladies-wave-daichi-7-trail-shoes-20250319"
     },
     {
-        "brand": "Timberland",
-        "product_name": "Men's Ellacoya-Z Watch",
-        "discounted_price": 1499,
-        "original_price": 3050,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-ellacoya-z-quartz-watch-20250314"
-    },
-    {
-        "brand": "Timberland",
-        "product_name": "Men's Sherbrook Watch",
-        "discounted_price": 2299,
-        "original_price": 4650,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-sherbrook-multi-function-leather-strap-watch-20250314"
-    },
-    {
-        "brand": "Timberland",
-        "product_name": "Men's Trumbull Watch",
-        "discounted_price": 1599,
-        "original_price": 3150,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-trumbull-leather-strap-watch-20250314"
-    },
-    {
-        "brand": "Timberland",
-        "product_name": "Men's Hookset Watch",
-        "discounted_price": 2299,
-        "original_price": 4200,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-hookset-multi-function-stainless-steel-watch-20250314"
-    },
-    {
-        "brand": "Timberland",
-        "product_name": "Men's Cherryfield Chrono Watch",
+        "brand": "Mizuno",
+        "product_name": "Men's Daichi 8 Shoes",
         "discounted_price": 1899,
-        "original_price": 4300,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-navy-gold-cherryfield-chronograph-leather-watch-20250314"
+        "original_price": 3200,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-or-ladies-wave-daichi-8-trail-shoes-20250319"
     },
     {
-        "brand": "Power Plus",
-        "product_name": "2000W 350mm Chainsaw",
+        "brand": "Mizuno",
+        "product_name": "Ladies Wave Rider 27 Shoes",
         "discounted_price": 1799,
+        "original_price": 3100,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-wave-rider-27-shoes-20250319"
+    },
+    {
+        "brand": "Mizuno",
+        "product_name": "Men's or Ladies Trail Shoes",
+        "discounted_price": 1949,
+        "original_price": 3300,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-or-ladies-wave-rider-tt-2-trail-running-shoes-20250319"
+    },
+    {
+        "brand": "Mizuno",
+        "product_name": "Men's or Ladies Wave Sky Shoes",
+        "discounted_price": 1999,
+        "original_price": 3400,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-or-ladies-wave-sky-7-running-shoes-20250319"
+    },
+    {
+        "brand": "Mizuno",
+        "product_name": "Unisex Wave Lynx 2 Trainers",
+        "discounted_price": 1399,
+        "original_price": 2400,
+        "product_link": "https://www.onedayonly.co.za/products/unisex-wave-lynx-2-trainers-20250319"
+    },
+    {
+        "brand": "Mizuno",
+        "product_name": "Men's Break Shot Tennis Shoes",
+        "discounted_price": 1299,
+        "original_price": 1900,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-break-shot-4-ac-tennis-shoes-20250319"
+    },
+    {
+        "brand": "Mizuno",
+        "product_name": "Ladies Wave iBuki 4 Trainers",
+        "discounted_price": 1199,
         "original_price": 2200,
-        "product_link": "https://www.onedayonly.co.za/products/2000w-350mm-chainsaw-20250314"
+        "product_link": "https://www.onedayonly.co.za/products/ladies-wave-ibuki-4-trainers-20250319"
     },
     {
-        "brand": "Power Plus",
-        "product_name": "550W 300mm Grass Trimmer",
-        "discounted_price": 669,
-        "original_price": 950,
-        "product_link": "https://www.onedayonly.co.za/products/550w-300mm-grass-trimmer-20250314"
+        "brand": "Zwiesel Glas",
+        "product_name": "2x 297ml Crystal Pure Champagne Flutes",
+        "discounted_price": 379,
+        "original_price": 480,
+        "product_link": "https://www.onedayonly.co.za/products/2x-297ml-crystal-pure-champagne-flutes-20250319"
     },
     {
-        "brand": "Power Plus",
-        "product_name": "20V Drill and Screwdriver Set",
-        "discounted_price": 1699,
-        "original_price": 2500,
-        "product_link": "https://www.onedayonly.co.za/products/20v-impact-drill-screwdriver-combo-set-20250314"
+        "brand": "Zwiesel Glas",
+        "product_name": "2x 388ml Sparkling Wine Glasses",
+        "discounted_price": 429,
+        "original_price": 580,
+        "product_link": "https://www.onedayonly.co.za/products/2x-388ml-vivid-senses-light-fresh-sparkling-wine-glasses-20250319"
     },
     {
-        "brand": "Power Plus",
-        "product_name": "710W Jigsaw",
+        "brand": "Zwiesel Glas",
+        "product_name": "4x 357ml Crystal Tumblers",
+        "discounted_price": 649,
+        "original_price": 1100,
+        "product_link": "https://www.onedayonly.co.za/products/4x-357ml-pure-crystal-tumblers-20250319"
+    },
+    {
+        "brand": "BRONX",
+        "product_name": "Men's Sherman Mesh Shoes",
         "discounted_price": 649,
         "original_price": 900,
-        "product_link": "https://www.onedayonly.co.za/products/710w-jigsaw-20250314"
+        "product_link": "https://www.onedayonly.co.za/products/men-s-sherman-casual-mesh-logo-print-lace-up-shoes-20250318"
     },
     {
-        "brand": "AuraTech",
-        "product_name": "2x Sensor Candle Wall Lights",
-        "discounted_price": 279,
-        "original_price": 600,
-        "product_link": "https://www.onedayonly.co.za/products/2x-magnetic-portable-sensor-candle-wall-lights-20250314"
+        "brand": "Bronx Safety",
+        "product_name": "Men's Wayfarer Lace-Up Boots",
+        "discounted_price": 699,
+        "original_price": 1000,
+        "product_link": "https://www.onedayonly.co.za/products/men-s-wayfarer-lace-up-safety-boots-20250318"
     },
     {
-        "brand": "AuraTech",
-        "product_name": "LED Dual Alarm Clock",
-        "discounted_price": 279,
-        "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/led-dual-alarm-clock-20250314"
+        "brand": "Kimber",
+        "product_name": "Teak Mosaic Wooden Pedestal",
+        "discounted_price": 1599,
+        "original_price": 2100,
+        "product_link": "https://www.onedayonly.co.za/products/teak-mosaic-wooden-pedestal-20250320"
     },
     {
-        "brand": "GLAM Beauty",
-        "product_name": "10-Piece Makeup Brush Set",
-        "discounted_price": 249,
-        "original_price": 400,
-        "product_link": "https://www.onedayonly.co.za/products/10-piece-makeup-brush-set-with-storage-pouch-20250314"
-    },
-    {
-        "brand": "GLAM Beauty",
-        "product_name": "2x Satin Sleeping Masks",
-        "discounted_price": 229,
-        "original_price": 400,
-        "product_link": "https://www.onedayonly.co.za/products/2x-satin-eye-sleeping-masks-20250314"
-    },
-    {
-        "brand": "GLAM Beauty",
-        "product_name": "Makeup Brush Washing Bowl",
-        "discounted_price": 149,
-        "original_price": 240,
-        "product_link": "https://www.onedayonly.co.za/products/silicone-makeup-brush-washing-bowl-20250314"
-    },
-    {
-        "brand": "Homemax",
-        "product_name": "50L Sensor Smart Bin",
-        "discounted_price": 1199,
-        "original_price": 1800,
-        "product_link": "https://www.onedayonly.co.za/products/50-litre-silver-sensor-smart-round-bin-20250314"
-    },
-    {
-        "brand": "Homemax",
-        "product_name": "Foldable Clothing Rack",
-        "discounted_price": 399,
-        "original_price": 550,
-        "product_link": "https://www.onedayonly.co.za/products/foldable-grey-clothing-rack-model-hcr001-20250314"
-    },
-    {
-        "brand": "Homemax",
-        "product_name": "3L Stainless Steel Stovetop Kettle",
-        "discounted_price": 369,
-        "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/3l-stainless-steel-stovetop-gas-kettle-20250314"
-    },
-    {
-        "brand": "Senor Chef",
-        "product_name": "2x 5-Piece Bread Dipping Kits",
-        "discounted_price": 379,
-        "original_price": 460,
-        "product_link": "https://www.onedayonly.co.za/products/2x-bread-dipping-kits-20250314"
-    },
-    {
-        "brand": "Stick-It",
-        "product_name": "300x Transparent Sticky Notes",
-        "discounted_price": 179,
-        "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/300x-waterproof-transparent-lined-sticky-notes-20250314"
-    },
-    {
-        "brand": "Ozuko",
-        "product_name": "Anti-Theft Crossbody Bag",
-        "discounted_price": 449,
-        "original_price": 750,
-        "product_link": "https://www.onedayonly.co.za/products/men-s-anti-theft-crossbody-bag-20250314"
-    },
-    {
-        "brand": "Soft Lustre Towels",
-        "product_name": "2x Encante Cotton Bath Towels",
-        "discounted_price": 449,
-        "original_price": 700,
-        "product_link": "https://www.onedayonly.co.za/products/2x-encante-turkish-cotton-bath-towel-20250314"
-    },
-    {
-        "brand": "Stacked",
-        "product_name": "2x Adjustable Laptop & Tablet Stands",
-        "discounted_price": 229,
-        "original_price": 350,
-        "product_link": "https://www.onedayonly.co.za/products/2x-foldable-adjustable-laptop-tablet-stands-20250314"
-    },
-    {
-        "brand": "Vagu",
-        "product_name": "Phone Case with Card Slot",
-        "discounted_price": 149,
-        "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/crossbody-protective-iphone-cover-with-card-slot-20250314"
-    },
-    {
-        "brand": "Walker Bay Spice",
-        "product_name": "2x 4-Piece Braai Boxes",
-        "discounted_price": 329,
-        "original_price": 420,
-        "product_link": "https://www.onedayonly.co.za/products/the-ultimate-braai-box-20250314"
-    },
-    {
-        "brand": "Miles Kelly",
-        "product_name": "Children's Treasuries",
+        "brand": "Treno",
+        "product_name": "10 Way High Surge Plug with USB",
         "discounted_price": 299,
         "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/children-s-treasuries-hardcover-20250314"
+        "product_link": "https://www.onedayonly.co.za/products/10-way-high-surge-plug-with-usb-20250320"
     },
     {
-        "brand": "Imagine That!",
-        "product_name": "Children's Picture Books",
-        "discounted_price": 379,
-        "original_price": 600,
-        "product_link": "https://www.onedayonly.co.za/products/children-s-picture-books-10-books-20250314"
+        "brand": "Ariella",
+        "product_name": "Headboard and Bed Base",
+        "discounted_price": 4199,
+        "original_price": 5900,
+        "product_link": "https://www.onedayonly.co.za/products/luxurious-padded-headboard-bedbase-set-20250319"
     },
     {
-        "brand": "Stream Pro",
-        "product_name": "2x Water-Saving Faucet Filter Heads",
-        "discounted_price": 169,
-        "original_price": 280,
-        "product_link": "https://www.onedayonly.co.za/products/2x-360-degree-arbitrary-water-saving-faucet-filter-heads-20250314"
-    },
-    {
-        "brand": "Aqua",
-        "product_name": "2x 100's Water Balloons",
-        "discounted_price": 129,
-        "original_price": 300,
-        "product_link": "https://www.onedayonly.co.za/products/2x-100-s-self-tying-water-balloons-20250314"
-    },
-    {
-        "brand": "Tony Mitton & Ant Parker",
-        "product_name": "Amazing Machines Picture Book Set",
+        "brand": "Ergorest",
+        "product_name": "2x Shredded Latex Pillows",
         "discounted_price": 499,
-        "original_price": 1300,
-        "product_link": "https://www.onedayonly.co.za/products/amazing-machines-picture-book-set-10-books-20250314"
+        "original_price": 700,
+        "product_link": "https://www.onedayonly.co.za/products/2x-shredded-latex-pillows-20250318"
     },
     {
-        "brand": "Balvi",
-        "product_name": "Whiskey Decanter Globe",
-        "discounted_price": 899,
-        "original_price": 2000,
-        "product_link": "https://www.onedayonly.co.za/products/whiskey-decanter-globe-in-glass-and-wood-20250310"
+        "brand": "Comfy",
+        "product_name": "Cotton Knitted Throws",
+        "discounted_price": 599,
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/knitted-cable-comfy-cotton-throws-20250320"
     },
     {
-        "brand": "Balvi",
-        "product_name": "Novelty Funky Bookends",
-        "discounted_price": 279,
+        "brand": "Protect A Bed",
+        "product_name": "Waterproof Mattress Protector",
+        "discounted_price": 359,
+        "original_price": 480,
+        "product_link": "https://www.onedayonly.co.za/products/high-quality-waterproof-mattress-protector-20250318"
+    },
+    {
+        "brand": "Layla",
+        "product_name": "Fur Bean Bag",
+        "discounted_price": 1699,
+        "original_price": 2200,
+        "product_link": "https://www.onedayonly.co.za/products/synthetic-fur-bean-bag-20250318"
+    },
+    {
+        "brand": "Larissa",
+        "product_name": "Bed Base & Trundle",
+        "discounted_price": 4399,
+        "original_price": 5900,
+        "product_link": "https://www.onedayonly.co.za/products/three-quarter-bed-base-trundle-20250318"
+    },
+    {
+        "brand": "Catalan",
+        "product_name": "Chest of Drawers",
+        "discounted_price": 6899,
+        "original_price": 8400,
+        "product_link": "https://www.onedayonly.co.za/products/chest-of-drawers-20250318"
+    },
+    {
+        "brand": "Ergorest",
+        "product_name": "Curve Foam Mattress",
+        "discounted_price": 3999,
+        "original_price": 4800,
+        "product_link": "https://www.onedayonly.co.za/products/curve-pure-foam-mattress-20250318"
+    },
+    {
+        "brand": "Ariella",
+        "product_name": "Cazana Bed & Padded Headboard",
+        "discounted_price": 8799,
+        "original_price": 10000,
+        "product_link": "https://www.onedayonly.co.za/products/cazana-bed-padded-headboard-20250318"
+    },
+    {
+        "brand": "Jiba",
+        "product_name": "Indonesian Bedside Table",
+        "discounted_price": 1999,
+        "original_price": 2400,
+        "product_link": "https://www.onedayonly.co.za/products/indonesian-bedside-table-20250318"
+    },
+    {
+        "brand": "Jamali",
+        "product_name": "100% Cotton Throw",
+        "discounted_price": 1599,
+        "original_price": 1900,
+        "product_link": "https://www.onedayonly.co.za/products/100-cotton-throw-20250318"
+    },
+    {
+        "brand": "Treno",
+        "product_name": "2x Appliance Surge Protector Plugs",
+        "discounted_price": 269,
+        "original_price": 600,
+        "product_link": "https://www.onedayonly.co.za/products/2x-appliance-surge-protector-plugs-20250320"
+    },
+    {
+        "brand": "Treno",
+        "product_name": "2x Power Surge Protector Plugs",
+        "discounted_price": 269,
+        "original_price": 600,
+        "product_link": "https://www.onedayonly.co.za/products/2x-power-surge-protector-plugs-20250320"
+    },
+    {
+        "brand": "Jack Brown",
+        "product_name": "Studio Ring Light & Accessories Kit",
+        "discounted_price": 799,
+        "original_price": 1500,
+        "product_link": "https://www.onedayonly.co.za/products/studio-video-creator-ring-light-and-accessories-kit-20250319"
+    },
+    {
+        "brand": "Jack Brown",
+        "product_name": "5-Piece Black Head Remover Set",
+        "discounted_price": 249,
         "original_price": 500,
-        "product_link": "https://www.onedayonly.co.za/products/decorative-novelty-funky-bookends-20250310"
+        "product_link": "https://www.onedayonly.co.za/products/5-piece-black-head-remover-set-20250319"
+    },
+    {
+        "brand": "Plushy",
+        "product_name": "Goose Back Support Cushion",
+        "discounted_price": 349,
+        "original_price": 750,
+        "product_link": "https://www.onedayonly.co.za/products/goose-back-support-cushion-20250319"
+    },
+    {
+        "brand": "NiftyTools",
+        "product_name": "2x 2-Piece Phone or Tablet Holder",
+        "discounted_price": 99,
+        "original_price": 300,
+        "product_link": "https://www.onedayonly.co.za/products/2x-2-piece-universal-phone-or-tablet-holder-20250319"
+    },
+    {
+        "brand": "Dr Clean",
+        "product_name": "2x or 4x 650ml Foam Cleaners",
+        "discounted_price": 199,
+        "original_price": 300,
+        "product_link": "https://www.onedayonly.co.za/products/2x-or-4x-650ml-multi-functional-foam-spray-cleaners-20250319"
+    },
+    {
+        "brand": "KG Italia",
+        "product_name": "Ladies Stacey Ankle Zip Boot",
+        "discounted_price": 349,
+        "original_price": 700,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-stacey-ankle-zip-boot-20250319"
+    },
+    {
+        "brand": "KG Italia",
+        "product_name": "Ladies Comfort Pumps",
+        "discounted_price": 199,
+        "original_price": 600,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-comfort-pumps-20250319"
+    },
+    {
+        "brand": "KG Italia",
+        "product_name": "Ladies Ellen Slingback Sandals",
+        "discounted_price": 199,
+        "original_price": 550,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-ellen-slingback-crossover-sandals-20250319"
+    },
+    {
+        "brand": "KG Italia",
+        "product_name": "Ladies Rivet Tassel Loafer",
+        "discounted_price": 249,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-rivet-tassel-suede-loafer-20250319"
+    },
+    {
+        "brand": "KG Italia",
+        "product_name": "Ladies May Multi-Strap Sandals",
+        "discounted_price": 249,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-may-multi-strap-flexi-sandals-20250319"
+    },
+    {
+        "brand": "KG Italia",
+        "product_name": "Ladies Como Platform Sneakers",
+        "discounted_price": 329,
+        "original_price": 470,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-como-eyelet-platform-sports-sneakers-20250319"
+    },
+    {
+        "brand": "KG Italia",
+        "product_name": "Ladies Alex Platform Sandals",
+        "discounted_price": 249,
+        "original_price": 550,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-alex-double-strap-platform-sandals-20250319"
+    },
+    {
+        "brand": "KG Italia",
+        "product_name": "Ladies Kiki Snake Sandals",
+        "discounted_price": 329,
+        "original_price": 700,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-snake-kiki-glamour-block-heel-sandals-20250319"
+    },
+    {
+        "brand": "KG Italia",
+        "product_name": "Ladies Jersey Wrap Espadrilles",
+        "discounted_price": 299,
+        "original_price": 600,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-jersey-flat-closed-toe-wrap-espadrilles-20250319"
+    },
+    {
+        "brand": "KG Italia",
+        "product_name": "Ladies Glam Trim Loafer",
+        "discounted_price": 249,
+        "original_price": 550,
+        "product_link": "https://www.onedayonly.co.za/products/ladies-black-glam-trim-loafer-20250319"
+    },
+    {
+        "brand": "Space Nova",
+        "product_name": "3D USB Crystal Galaxy Ball",
+        "discounted_price": 249,
+        "original_price": 750,
+        "product_link": "https://www.onedayonly.co.za/products/3d-space-themed-usb-crystal-galaxy-ball-with-light-up-base-20250319"
+    },
+    {
+        "brand": "Relief",
+        "product_name": "Memory Foam Donut Seat Cushion",
+        "discounted_price": 379,
+        "original_price": 650,
+        "product_link": "https://www.onedayonly.co.za/products/memory-foam-donut-seat-cushion-for-tailbone-relief-20250319"
+    },
+    {
+        "brand": "Mr Fresh",
+        "product_name": "2x 40's Laundry Detergent Sheets",
+        "discounted_price": 249,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/2x-40-s-eco-laundry-detergent-sheets-20250319"
+    },
+    {
+        "brand": "FlowerMug",
+        "product_name": "4x 350ml Double-Walled Glass Mugs",
+        "discounted_price": 299,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/4x-350ml-dried-flower-double-walled-borosilicate-glass-mugs-20250319"
+    },
+    {
+        "brand": "H&S",
+        "product_name": "2x Velvet Jewellery Boxes",
+        "discounted_price": 499,
+        "original_price": 720,
+        "product_link": "https://www.onedayonly.co.za/products/2x-velvet-jewellery-boxes-with-mirrors-20250319"
+    },
+    {
+        "brand": "Travel by Iconix",
+        "product_name": "Gym Bag with Wet/Dry Storage",
+        "discounted_price": 299,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/unisex-gym-bag-with-wet-dry-storage-20250317"
+    },
+    {
+        "brand": "Ride On",
+        "product_name": "iGlide Pony Kick Bike",
+        "discounted_price": 659,
+        "original_price": 1600,
+        "product_link": "https://www.onedayonly.co.za/products/iglide-pony-kick-bike-20250319"
+    },
+    {
+        "brand": "WORX",
+        "product_name": "20V Cordless Garden Sprayer",
+        "discounted_price": 1399,
+        "original_price": 2500,
+        "product_link": "https://www.onedayonly.co.za/products/20v-max-cordless-garden-sprayer-including-battery-and-charger-model-wg829e-9-20250319"
+    },
+    {
+        "brand": "WORX",
+        "product_name": "20V One-Handed Chainsaw",
+        "discounted_price": 2199,
+        "original_price": 3500,
+        "product_link": "https://www.onedayonly.co.za/products/20v-one-handed-chainsaw-model-wg325e-9-20250319"
+    },
+    {
+        "brand": "WORX",
+        "product_name": "Nail and Staple Gun (Model: WX840.9)",
+        "discounted_price": 2999,
+        "original_price": 4500,
+        "product_link": "https://www.onedayonly.co.za/products/cordless-18-gauge-nail-and-staple-gun-model-wx840-9-20250319"
+    },
+    {
+        "brand": "WORX",
+        "product_name": "40V Cordless Lawn Mower",
+        "discounted_price": 3499,
+        "original_price": 4500,
+        "product_link": "https://www.onedayonly.co.za/products/40v-cordless-lawn-mower-20250319"
+    },
+    {
+        "brand": "WORX",
+        "product_name": "Cordless String Trimmer",
+        "discounted_price": 1199,
+        "original_price": 1500,
+        "product_link": "https://www.onedayonly.co.za/products/20v-cordless-string-trimmer-30cm-model-wg163e-9-20250319"
+    },
+    {
+        "brand": "WORX",
+        "product_name": "20V 2-in-1 Drill/Driver (Model: WX177)",
+        "discounted_price": 1799,
+        "original_price": 2200,
+        "product_link": "https://www.onedayonly.co.za/products/20v-2-in-1-drill-driver-model-wx177-20250319"
+    },
+    {
+        "brand": "WORX",
+        "product_name": "20V Pruning Tool Combo",
+        "discounted_price": 2299,
+        "original_price": 3500,
+        "product_link": "https://www.onedayonly.co.za/products/20v-cordless-25mm-pruning-shear-lopper-model-wg330e-9-20250319"
+    },
+    {
+        "brand": "Ride On",
+        "product_name": "iGlide V8 10\" Segway",
+        "discounted_price": 4899,
+        "original_price": 6500,
+        "product_link": "https://www.onedayonly.co.za/products/iglide-v8-10-segway-20250319"
+    },
+    {
+        "brand": "Sprayground",
+        "product_name": "Shark Themed Couture Bag",
+        "discounted_price": 799,
+        "original_price": 3000,
+        "product_link": "https://www.onedayonly.co.za/products/shark-themed-couture-bag-20250319"
+    },
+    {
+        "brand": "Sprayground",
+        "product_name": "Multi-Printed Backpack",
+        "discounted_price": 749,
+        "original_price": 1000,
+        "product_link": "https://www.onedayonly.co.za/products/multi-printed-backpack-20250319"
+    },
+    {
+        "brand": "KeraCare",
+        "product_name": "240ml 1st Lather Shampoo",
+        "discounted_price": 99,
+        "original_price": 280,
+        "product_link": "https://www.onedayonly.co.za/products/240ml-1st-lather-shampoo-20250319"
+    },
+    {
+        "brand": "KeraCare",
+        "product_name": "234g Humecto Creme Conditioner",
+        "discounted_price": 99,
+        "original_price": 250,
+        "product_link": "https://www.onedayonly.co.za/products/234g-humecto-creme-conditioner-20250319"
+    },
+    {
+        "brand": "KeraCare",
+        "product_name": "2x 240ml Oil Moisturisers",
+        "discounted_price": 149,
+        "original_price": 440,
+        "product_link": "https://www.onedayonly.co.za/products/2x-240ml-oil-moisturisers-with-jojoba-oil-20250319"
+    },
+    {
+        "brand": "Cogo",
+        "product_name": "8-Piece Red Chef’s Kitchen",
+        "discounted_price": 749,
+        "original_price": 1030,
+        "product_link": "https://www.onedayonly.co.za/products/8-piece-red-chef-s-kitchen-with-light-running-water-sound-effects-20250319"
+    },
+    {
+        "brand": "Cogo",
+        "product_name": "Multifunctional Activity Table",
+        "discounted_price": 999,
+        "original_price": 1300,
+        "product_link": "https://www.onedayonly.co.za/products/multifunctional-activity-table-with-lights-and-sounds-20250319"
+    },
+    {
+        "brand": "Typhoon",
+        "product_name": "7.5L Eden Bread Bin",
+        "discounted_price": 799,
+        "original_price": 1200,
+        "product_link": "https://www.onedayonly.co.za/products/eden-bread-bin-20250320"
+    },
+    {
+        "brand": "Typhoon",
+        "product_name": "Eden Food Canister",
+        "discounted_price": 229,
+        "original_price": 440,
+        "product_link": "https://www.onedayonly.co.za/products/eden-food-canister-20250320"
+    },
+    {
+        "brand": "yardFRESH",
+        "product_name": "2-Piece Odour Neutralizer Bundle",
+        "discounted_price": 359,
+        "original_price": 480,
+        "product_link": "https://www.onedayonly.co.za/products/2-piece-odour-neutralizer-bundle-20250319"
+    },
+    {
+        "brand": "Elite Relief",
+        "product_name": "EMS Pulse Therapy Massager",
+        "discounted_price": 299,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/ems-pulse-therapy-massager-with-batteries-20250319"
+    },
+    {
+        "brand": "GlamStash",
+        "product_name": "Drawer Organiser Set",
+        "discounted_price": 199,
+        "original_price": 400,
+        "product_link": "https://www.onedayonly.co.za/products/acrylic-drawer-and-makeup-organiser-set-20250320"
+    },
+    {
+        "brand": "Secure Steps",
+        "product_name": "2m Baby Anti-Bump Protection Strip",
+        "discounted_price": 179,
+        "original_price": 250,
+        "product_link": "https://www.onedayonly.co.za/products/2m-baby-anti-bump-flat-protection-strip-20250314"
+    },
+    {
+        "brand": "One-Juice",
+        "product_name": "Slim Start Cleanse 16 Box",
+        "discounted_price": 449,
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/slim-start-cleanse-16-box-20250318"
+    },
+    {
+        "brand": "Carry Craft",
+        "product_name": "Woven Bag with Strap",
+        "discounted_price": 349,
+        "original_price": 600,
+        "product_link": "https://www.onedayonly.co.za/products/multipurpose-woven-bag-with-removable-strap-20250319"
+    },
+    {
+        "brand": "Luxe Pet",
+        "product_name": "Waterproof Dog Potty Training Pad",
+        "discounted_price": 199,
+        "original_price": 300,
+        "product_link": "https://www.onedayonly.co.za/products/washable-waterproof-dog-potty-training-pad-20250319"
+    },
+    {
+        "brand": "Jar Melo",
+        "product_name": "36x Baby Roo Washable Markers",
+        "discounted_price": 229,
+        "original_price": 340,
+        "product_link": "https://www.onedayonly.co.za/products/36x-baby-roo-washable-super-tip-markers-20250319"
+    },
+    {
+        "brand": "ShooAway",
+        "product_name": "2x Bamboo Fly Repellent Fans",
+        "discounted_price": 599,
+        "original_price": 800,
+        "product_link": "https://www.onedayonly.co.za/products/2x-bamboo-fly-repellent-fans-20250318"
+    },
+    {
+        "brand": "Chenshia Baby",
+        "product_name": "Kids Non-Slip Bath Mat & Stickers",
+        "discounted_price": 249,
+        "original_price": 380,
+        "product_link": "https://www.onedayonly.co.za/products/kids-non-slip-bath-mat-and-10-bath-stickers-20250319"
+    },
+    {
+        "brand": "Chenshia Baby",
+        "product_name": "6x Baby Soft Cloth Books",
+        "discounted_price": 249,
+        "original_price": 400,
+        "product_link": "https://www.onedayonly.co.za/products/6x-baby-educational-soft-cloth-books-20250319"
+    },
+    {
+        "brand": "Stickit Designs",
+        "product_name": "Peel & Stick Wall Stickers",
+        "discounted_price": 319,
+        "original_price": 460,
+        "product_link": "https://www.onedayonly.co.za/products/botanical-peel-stick-home-wall-stickers-20250319"
+    },
+    {
+        "brand": "Stickit Designs",
+        "product_name": "20x Tile Wall Stickers",
+        "discounted_price": 149,
+        "original_price": 180,
+        "product_link": "https://www.onedayonly.co.za/products/20x-tile-wall-stickers-20250319"
+    },
+    {
+        "brand": "Crease Protect",
+        "product_name": "2x Crease Protect Shields",
+        "discounted_price": 199,
+        "original_price": 360,
+        "product_link": "https://www.onedayonly.co.za/products/2x-crease-protect-shields-20250319"
+    },
+    {
+        "brand": "Crease Protect",
+        "product_name": "200ml Squeaky Clean Kit",
+        "discounted_price": 179,
+        "original_price": 250,
+        "product_link": "https://www.onedayonly.co.za/products/200ml-squeaky-clean-shoe-cleaning-kit-20250319"
+    },
+    {
+        "brand": "Crease Protect",
+        "product_name": "2x 75ml Max White Shoe Whitener",
+        "discounted_price": 199,
+        "original_price": 360,
+        "product_link": "https://www.onedayonly.co.za/products/2x-75ml-max-white-premium-shoe-whitener-20250319"
+    },
+    {
+        "brand": "Crease Protect",
+        "product_name": "2x 200ml Stain Defence Spray",
+        "discounted_price": 199,
+        "original_price": 400,
+        "product_link": "https://www.onedayonly.co.za/products/2x-200ml-rain-stain-defence-liquid-stain-repellant-spray-20250319"
+    },
+    {
+        "brand": "Remax",
+        "product_name": "20000mAh Power Bank",
+        "discounted_price": 399,
+        "original_price": 560,
+        "product_link": "https://www.onedayonly.co.za/products/20000mah-20w-22-5w-fast-charging-power-bank-20250319"
+    },
+    {
+        "brand": "Elite Relief",
+        "product_name": "Deep Tissue Massage Tool",
+        "discounted_price": 349,
+        "original_price": 700,
+        "product_link": "https://www.onedayonly.co.za/products/muscle-release-and-deep-tissue-massage-tool-20250319"
+    },
+    {
+        "brand": "Watch Ease",
+        "product_name": "22mm Pin Buckle Silicone Strap",
+        "discounted_price": 179,
+        "original_price": 270,
+        "product_link": "https://www.onedayonly.co.za/products/22mm-pin-buckle-silicone-strap-compatible-with-samsung-galaxy-watch-series-4-5-20250319"
+    },
+    {
+        "brand": "SolarGlow",
+        "product_name": "2x Induction Solar Wall Lights",
+        "discounted_price": 299,
+        "original_price": 500,
+        "product_link": "https://www.onedayonly.co.za/products/2x-induction-solar-wall-lights-20250320"
+    },
+    {
+        "brand": "LunarSky",
+        "product_name": "USB Saucer Projector Lamp",
+        "discounted_price": 699,
+        "original_price": 1300,
+        "product_link": "https://www.onedayonly.co.za/products/usb-flying-saucer-projector-lamp-20250319"
+    },
+    {
+        "brand": "HomeBody",
+        "product_name": "Cervical Support Pillow",
+        "discounted_price": 279,
+        "original_price": 450,
+        "product_link": "https://www.onedayonly.co.za/products/ergonomic-memory-foam-cervical-support-pillow-20250319"
+    },
+    {
+        "brand": "GlamCarry",
+        "product_name": "3-in-1 Backpack & Crossbody Bag",
+        "discounted_price": 199,
+        "original_price": 400,
+        "product_link": "https://www.onedayonly.co.za/products/3-in-1-multi-pocket-backpack-and-crossbody-bag-20250319"
+    },
+    {
+        "brand": "TecWare",
+        "product_name": "Premium Ventilated Laptop Stand",
+        "discounted_price": 149,
+        "original_price": 250,
+        "product_link": "https://www.onedayonly.co.za/products/premium-ventilated-laptop-stand-20250319"
     }
 ]

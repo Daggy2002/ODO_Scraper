@@ -8,7 +8,6 @@ load_dotenv()
 
 # Replace this with your Pushbullet API Key
 API_KEY = os.getenv("PUSHBULLET_API_KEY")
-print(API_KEY)
 
 # Initialize Pushbullet
 pb = Pushbullet(API_KEY)
@@ -19,7 +18,6 @@ with open('products.json', 'r') as file:
 
 # Loop through products and check if the discount is 70% or more
 for product in products:
-    
     discount_percentage = (product['original_price'] - product['discounted_price']) / product['original_price'] * 100
     
     if discount_percentage >= 70:

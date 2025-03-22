@@ -1,7 +1,6 @@
 from playwright.sync_api import sync_playwright
 import json
 import time
-import re
 
 BASE_URL = "https://www.onedayonly.co.za"
 
@@ -45,24 +44,11 @@ def scrape_products():
                         return int(price_str.replace('R', '').replace(',', '').strip())
 
                     if len(h2_prices) == 3:
-                        # Format: "from disc_price old_price"
                         discounted_price = convert_price(h2_prices[1].inner_text().strip())
                         original_price = convert_price(h2_prices[2].inner_text().strip())
                     elif len(h2_prices) == 2:
-                        # Format: "disc_price old_price" or "from disc_price"
-                        price_text = h2_prices[0].inner_text().strip().lower()
-                        if price_text.startswith("from"):
-                            discounted_price = convert_price(h2_prices[1].inner_text().strip())
-                            original_price = discounted_price
-                        else:
-                            discounted_price = convert_price(h2_prices[0].inner_text().strip())
-                            original_price = convert_price(h2_prices[1].inner_text().strip())
-                    elif len(h2_prices) == 1:
-                        # Format: "from disc_price"
-                        price_text = h2_prices[0].inner_text().strip().lower()
-                        if price_text.startswith("from"):
-                            discounted_price = convert_price(price_text.replace("from", "").strip())
-                            original_price = None
+                        discounted_price = convert_price(h2_prices[0].inner_text().strip())
+                        original_price = convert_price(h2_prices[1].inner_text().strip())
 
                 # Extract product link
                 link_tag = product_div.query_selector('a')
@@ -83,7 +69,7 @@ def scrape_products():
         # Scroll and extract additional products
         for i in range(num_of_scrolls):
             page.evaluate(f"window.scrollTo(0, {window_inner_height * (i + 1)})")
-            time.sleep(1)  # Allow time for content to load
+            page.wait_for_load_state("networkidle")
             extract_products()  # Extract products after scrolling
 
         browser.close()
@@ -95,6 +81,7 @@ def scrape_products():
         # Save to JSON
         with open('products.json', 'w', encoding='utf-8') as file:
             json.dump(products, file, indent=4, ensure_ascii=False)
+
 
 start_time = time.time()
 
